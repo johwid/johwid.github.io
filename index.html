@@ -1,6 +1,81 @@
+<!DOCTYPE html>
 <html>
+
+<head>
+  <title>Flash Cards</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/jquery.mobile-1.2.0.min.css" />
+  <!--<link rel="stylesheet" href="css/jquery.mobile-1.4.5.min.css" />-->
+  <link rel="stylesheet" href="css/app.css" />
+  <link type="image/x-icon" href="favicon.ico" rel="SHORTCUT ICON" />
+  <link rel="apple-touch-icon" href="images/appicon.png" />
+
+  <script src="js/jquery.min.js"></script>
+  <script src="js/jquery.mobile-1.2.0.min.js"></script>
+
+  <!--
+  <script src="js/jquery-3.6.0.min.js"></script>
+  <script src="js/jquery.mobile-1.4.5.min.js"></script>
+-->
+
+  <script src="js/showdown.js"></script>
+  <script src="js/cards.js"></script>
+  <script src="js/app.js"></script>
+</head>
+
 <body>
-Test from pages
-Test commit
+    <!-- Main body content start -->
+  <div data-role="page" id="title-page">
+    <div data-role="content">
+      <div id="logo-text" class="text-color"><span id="app-title"></span></div>
+      <div id="logo-subtext" class="text-color">Flash Cards</div>
+      <div id="catch-phrase" class="text-color"><span id="app-catch-phrase"></span></div>
+      <a href="#main-page" data-role="button" data-transition="flip">Start</a>
+    </div>
+  </div>
+    <!-- Main body end -->
+
+  <!-- Header with navigation buttons start -->
+  <div data-role="page" id="main-page">
+    <div data-role="header">
+      <a href="index.html" data-icon="refresh">Restart</a>
+      <h1>Flash Cards</h1>
+      <a id="next-card" data-icon="arrow-r" data-theme="b" data-transition="flip">Next</a>
+    </div>
+    <!-- Main content div -->
+    <div data-role="content">
+      <div data-role="collapsible-set" data-theme="c" data-content-theme="d" class="ui-collapsible-set ui-corner-all">
+        <!--<div id="flash-card" data-role="collapsible" class="ui-collapsible ui-collapsible-inset ui-collapsible-themed-content ui-first-child ui-collapsible-collapsed" data-collapsed-icon="arrow-r" data-expanded-icon="arrow-d">-->
+        <div id="flash-card">
+          <!--<h3 class="ui-collapsible-heading ui-collapsible-heading-collapsed">-->
+          <h3>
+            <p id="question"></p>
+          </h3>
+            <div id="answers">
+            </div>
+<!--
+       <a id="answer1" data-role="button" data-mini="true">Next</a>
+          <a id="answer2" data-role="button" data-mini="true">Next</a>
+          <a id="answer3" data-role="button" data-mini="true">Next</a>
+          <a id="answer4" data-role="button" data-mini="true">Next</a>
+          <a data-role="button" data-mini="true">test</a>
+        </div>
+-->
+      </div>
+<br />
+      <a id="skip-card" data-role="button" data-mini="true">Next</a>
+    </div>
+  </div>
+    <!-- Main content div end -->
+
+  <div data-role="page" id="resources-page">
+    <div data-role="header">
+      <a href="index.html" data-icon="refresh">Restart</a>
+      <h1>Flash Cards</h1>
+    </div>
+  </div>
+    <!-- Header end -->
+
 </body>
+
 </html>
