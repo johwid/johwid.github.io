@@ -25,28 +25,35 @@ function newQuestion(words){
     // Get question card
     var question=getWord(words);
     $("#question").html(question.russian);
-    $("#question").addClass("h1");
-    $("#question").data("russian",question.russian);
-    $("#question").data("english",question.english);
-    console.log("New word: "+question.russian+"("+question.english+")");
+   
+    var from=Object.keys(question)[0]
+    var to=question[from]
 
+    $("#question").addClass("h1");
+    $("#question").data("russian",from);
+    $("#question").data("english",to);
+    //console.log("New word: "+from+"("+to+")");
+    $("#question").html(from);
+    
     // Get answers
     var answers=[]
     var numberOfAnswers=4
 
     // Push correct answer to the list
-    answers.push([question.russian,question.english]);
+    answers.push([from,to]);
 
     //Add other answers
     for(var i=1; i<numberOfAnswers; i++){
         var answer=getWord(words);
-        answers.push([answer.russian,answer.english]);
+        from=Object.keys(answer)[0]
+        to=answer[from]
+        answers.push([from,to]);
+        //console.log(from+" - "+to);
     }
 
     //Shuffle answers
     answers=shuffle(answers); 
 
-    $("#question").html(question.russian);
     for(var i=0; i<numberOfAnswers; i++){
         $("<button>").attr("class", "btn btn-primary")
             .attr("id","b"+i)

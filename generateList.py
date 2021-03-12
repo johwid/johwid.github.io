@@ -31,16 +31,20 @@ for o, a in opts:
 
 
 # Build word list
-content={"title":"Русский","catchPhrase":"Test how well you know Русский","cards":{}}
-cards=[]
+content={"title":"Русский","catchPhrase":"Test how well you know Русский","words":{}}
+words=[]
 
 # Parse each line
 with open(inputFile) as f:
     for line in f:
-        lineArray=line.strip().replace(" ","").split("=")
-        cards.append({"russian":lineArray[0],"english":lineArray[1]})
+        #lineArray=line.strip().replace(" ","").split("=")
+        #lineArray=line.strip().split("=")
+        lineArray=line.strip().split("=")
+        if(len(lineArray)!=1):
+            #words.append({"russian":lineArray[0].strip(),"english":lineArray[1].strip()})
+            words.append({lineArray[0].strip():lineArray[1].strip()})
 
-content["cards"]=cards
+content["words"]=words
 #print(content)
 
 # Write to JSON
@@ -48,4 +52,5 @@ content["cards"]=cards
 
 # Write JSON to file
 with open(outputFile, 'w',encoding='utf8') as outfile:
+    outfile.write("wordDeck=")
     json.dump(content, outfile, ensure_ascii=False)
