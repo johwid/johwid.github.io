@@ -1,145 +1,85 @@
-var app = (function(cardDeck, Showdown) {
-  "use strict";
+function getWord(words){
+    return words[Math.floor(Math.random() * words.length)];
+}
 
-  var appName = 'Flash Cards',
-    version = '0.2',
-    cards = cardDeck.cards,
-    markdownConverter = new Showdown.converter();
+function shuffle(array) {
+    // https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle
+    var counter = array.length, temp, index;
+    // While there are elements in the array
+    while (counter > 0) {
+        // Pick a random index
+        index = Math.floor(Math.random() * counter);
 
+        // Decrease counter by 1
+        counter = counter - 1;
 
-    return {
-        // Init everything
-        init: function() {
-        },
-        // Shuffle card functions
-      shuffle: function(array) {
-            // https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle
-            var counter = array.length, temp, index;
-            // While there are elements in the array
-            while (counter > 0) {
-                // Pick a random index
-                index = Math.floor(Math.random() * counter);
-
-                // Decrease counter by 1
-                counter = counter - 1;
-
-                // And swap the last element with it
-                temp = array[counter];
-                array[counter] = array[index];
-                array[index] = temp;
-            }
-            return array;
-    },
-    // Check answer
-    checkAnswer: function(answerCard){
-        if($(answerCard).data('russian') == $(question).data('russian')){
-            console.log('Correct');
-            $(answerCard).children().css('background-color','green');
-        }
-        else{
-            $(answerCard).children().css('background-color','red');
-            console.log('Wrong');
-        }
-
-    },
-    getCard: function(){
-        return cards[Math.floor(Math.random() * cards.length)];
-    },
-    generateAnswerCards: function(numberOfAnswerCards){
-        var answerCards=[];
-        for(var i=0;i<numberOfAnswerCards;i++){
-            var answerCard=cards[Math.floor(Math.random() * cards.length)];
-            answerCards[i]=answerCard;
-        }
-        return answerCards;
-    },
-    // Convert markdown
-    markdownToHTML: function(markdownText) {
-        var text = markdownText.replace(new RegExp('\\|', 'g'), '\n');
-        return markdownConverter.makeHtml(text);
+        // And swap the last element with it
+        temp = array[counter];
+        array[counter] = array[index];
+        array[index] = temp;
     }
-  };
-})(flashcardDeck, Showdown);
+    return array;
+}
 
-/*
- jQueryMobile event handlers
- */
-// Event handler when loading start page
-$(document).bind('pageinit', function(event, ui) {
-    "use strict";
-    app.init();
-    $('#app-title').text(flashcardDeck.title);
-    $('#app-catch-phrase').text(flashcardDeck.catchPhrase);
-});
+function newQuestion(words){
+    // Get question card
+    var question=getWord(words);
+    $("#question").html(question.russian);
+    $("#question").addClass("h1");
+    $("#question").data("russian",question.russian);
+    $("#question").data("english",question.english);
+    console.log("New word: "+question.russian+"("+question.english+")");
 
-$(document).delegate("#title-page", "pagecreate", function() {
-    "use strict";
-    $(this).css('background', '#f0db4f');
-    if (navigator.userAgent.match(/Android/i)) {
-        window.scrollTo(0, 1);
+    // Get answers
+    var answers=[]
+    var numberOfAnswers=4
+
+    // Push correct answer to the list
+    answers.push([question.russian,question.english]);
+
+    //Add other answers
+    for(var i=1; i<numberOfAnswers; i++){
+        var answer=getWord(words);
+        answers.push([answer.russian,answer.english]);
     }
-});
 
-$(document).delegate("#main-page", "pageinit", function() {
-    "use strict";
-    function nextCard() {
-        var questionCard = app.getCard();
+    //Shuffle answers
+    answers=shuffle(answers); 
 
-        //check if null
-        //window.location.href = '#resources-page';
+    $("#question").html(question.russian);
+    for(var i=0; i<numberOfAnswers; i++){
+        $("<button>").attr("class", "btn btn-primary")
+            .attr("id","b"+i)
+            .attr("type","button")
+            .text("test"+i)
+            .text(answers[i][1])
+            .data("russian",answers[i][0])
+            .data("english",answers[i][1])
+            .appendTo("#answers").button();
 
-        // Display question word
-        $('#question').html(app.markdownToHTML(questionCard.russian));
-        $('#question').data("russian",questionCard.russian);
-        $('#question').data("english",questionCard.english);
+            // Correction logic
+            $("#b"+i).on("click", function(){
+                //console.log($(this).data('russian')+" - "+$(this).data('english'));
+                console.log($("#question").data('russian')+" == "+$(this).data('russian'));
+                if($("#question").data('russian') == $(this).data('russian')){
+                    console.log('Correct');
+                    $(this).addClass("btn-success");
+                }
+                else{
+                    console.log('Wrong');
+                    $(this).addClass("btn-danger");
+                }
 
-        //Cleanup old answers
-        $('#answers').empty();
-
-        // Generate answers
-        var answers=[];
-        var numberOfQuestions=4;
-
-        //Add correct answer to list
-        answers.push([questionCard.russian,questionCard.english]);
-
-        //Add other answers
-        for(var i=1; i<numberOfQuestions; i++){
-            var card=app.getCard();
-            answers.push([card.russian,card.english]);
-        }
-        //Shuffle answers
-        answers=app.shuffle(answers);
-
-        // Display answers
-        for(var i=0; i<numberOfQuestions; i++){
-            $("<a>").attr("data-role", "button")
-                .text(answers[i][1])
-                .data("russian",answers[i][0])
-                .data("english",answers[i][1])
-                .bind("click", function(event, ui) {
-                    app.checkAnswer(this); 
-                })
-                .appendTo("#answers").button();
+            });
        }
 }
 
-    // "Next card" button
-    $("#next-card").bind("click", function(event, ui) {
-        nextCard();
-      });
-    // "Skip card" button
-    $("#skip-card").bind("click", function(event, ui) {
-        nextCard();
-    });
-    // Swipe-left motion (mobile?) 
-    $("#main-page").on("swipeleft", function(event) {
-        nextCard();
-    });
-    // ?
-    $(document).delegate('#main-page', 'pageshow', function() {
-        nextCard();
+$(document).ready(function() {
+    var words=wordDeck.words;
+    newQuestion(words);
+    $("#nextButton").on("click",function(){
+        $("#answers").empty();
+        newQuestion(words); 
     });
 });
-
 
