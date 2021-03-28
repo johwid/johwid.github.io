@@ -37,7 +37,7 @@ function newQuestion(words){
     
     // Get answers
     var answers=[]
-    var numberOfAnswers=4
+    var numberOfAnswers=10§
 
     // Push correct answer to the list
     answers.push([from,to]);
