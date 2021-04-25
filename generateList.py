@@ -39,10 +39,12 @@ with open(inputFile) as f:
     for line in f:
         #lineArray=line.strip().replace(" ","").split("=")
         #lineArray=line.strip().split("=")
-        lineArray=line.strip().split("=")
+        #lineArray=line.strip().split("=")
+        lineArray=line.strip().split(",")
         if(len(lineArray)!=1):
             #words.append({"russian":lineArray[0].strip(),"english":lineArray[1].strip()})
-            words.append({lineArray[0].strip():lineArray[1].strip()})
+            #words.append({lineArray[0].strip():lineArray[1].strip()})
+            words.append({"rus":lineArray[0].strip(),"eng":lineArray[1].strip(),"category":[]})
 
 content["words"]=words
 #print(content)

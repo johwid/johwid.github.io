@@ -1,5 +1,34 @@
+/*
 function getWord(words){
     return words[Math.floor(Math.random() * words.length)];
+}
+*/
+function getWord(words,filter){
+    var found=false;
+    var word="";
+    console.log(filter);
+
+    while(!found){
+        word=words[Math.floor(Math.random() * words.length)];
+
+        console.log(word);
+/*
+        console.log("Word: "+word.rus);
+        console.log("Filter: "+filter);
+        console.log("Category: "+word.category);
+*/
+
+        if(filter == "all" || word.category.includes(filter)){
+            found=true;
+            console.log("Found");
+        }
+        /*
+        console.log("F:"+filter);
+        console.log(word.category);
+        */
+    }
+
+    return word
 }
 
 function shuffle(array) {
@@ -21,13 +50,18 @@ function shuffle(array) {
     return array;
 }
 
-function newQuestion(words){
+function newQuestion(words,filter){
     // Get question card
-    var question=getWord(words);
-    $("#question").html(question.russian);
+    //var question=getWord(words);
+    var question=getWord(words,filter);
+    console.log("Question word: "+question.rus);
+    $("#question").html(question.rus);
    
-    var from=Object.keys(question)[0]
-    var to=question[from]
+    //var from=Object.keys(question)[0]
+    //var to=question[from]
+
+    var from=question.rus;
+    var to=question.eng;
 
     $("#question").addClass("h1");
     $("#question").data("russian",from);
@@ -44,9 +78,10 @@ function newQuestion(words){
 
     //Add other answers
     for(var i=1; i<numberOfAnswers; i++){
-        var answer=getWord(words);
-        from=Object.keys(answer)[0]
-        to=answer[from]
+        var answer=getWord(words,filter);
+        //from=Object.keys(answer)[0]
+        from=answer.rus;
+        to=answer.eng;
         answers.push([from,to]);
         //console.log(from+" - "+to);
     }
@@ -59,9 +94,16 @@ function newQuestion(words){
             .attr("id","b"+i)
             .attr("type","button")
             .text("test"+i)
+            
             .text(answers[i][1])
+            //.text(answers[i].rus)
+            
             .data("russian",answers[i][0])
+            //.data("russian",answers[i].rus)
+            
             .data("english",answers[i][1])
+            //.data("english",answers[i].eng)
+            
             .appendTo("#answers").button();
 
             // Correction logic
@@ -83,10 +125,29 @@ function newQuestion(words){
 
 $(document).ready(function() {
     var words=wordDeck.words;
-    newQuestion(words);
+    //newQuestion(words);
+    newQuestion(words,"all");
+
+    $("#conjugationButton").on("click",function(){
+        $("#answers").empty();
+        newQuestion(words,"conjugation"); 
+    });
+    $("#numberButton").on("click",function(){
+        $("#answers").empty();
+        newQuestion(words,"number"); 
+    });
+    $("#cardinalButton").on("click",function(){
+        $("#answers").empty();
+        newQuestion(words,"cardinal"); 
+    });
+    $("#allButton").on("click",function(){
+        $("#answers").empty();
+        newQuestion(words,"all"); 
+    });
     $("#nextButton").on("click",function(){
         $("#answers").empty();
-        newQuestion(words); 
+        newQuestion(words,"all"); 
     });
+
 });
 
