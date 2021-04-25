@@ -125,28 +125,33 @@ function newQuestion(words,filter){
 
 $(document).ready(function() {
     var words=wordDeck.words;
+    var currentFilter="all";
     //newQuestion(words);
-    newQuestion(words,"all");
+    newQuestion(words,currentFilter);
 
     $("#conjugationButton").on("click",function(){
         $("#answers").empty();
-        newQuestion(words,"conjugation"); 
+        currentFilter="conjugation";
+        newQuestion(words,currentFilter); 
     });
     $("#numberButton").on("click",function(){
         $("#answers").empty();
-        newQuestion(words,"number"); 
+        currentFilter="number";
+        newQuestion(words,currentFilter); 
     });
     $("#cardinalButton").on("click",function(){
         $("#answers").empty();
-        newQuestion(words,"cardinal"); 
+        currentFilter="cardinal";
+        newQuestion(words,currentFilter); 
     });
     $("#allButton").on("click",function(){
         $("#answers").empty();
-        newQuestion(words,"all"); 
+        currentFilter="all";
+        newQuestion(words,currentFilter); 
     });
     $("#nextButton").on("click",function(){
         $("#answers").empty();
-        newQuestion(words,"all"); 
+        newQuestion(words,currentFilter); 
     });
 
 });
