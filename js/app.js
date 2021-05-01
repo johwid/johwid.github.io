@@ -131,7 +131,7 @@ $(document).ready(function() {
 
     $("#conjugationButton").on("click",function(){
         $("#answers").empty();
-        currentFilter="conjugation";
+        currentFilter="conjunction";
         newQuestion(words,currentFilter); 
     });
     $("#numberButton").on("click",function(){
@@ -147,6 +147,11 @@ $(document).ready(function() {
     $("#allButton").on("click",function(){
         $("#answers").empty();
         currentFilter="all";
+        newQuestion(words,currentFilter); 
+    });
+    $("#1000Button").on("click",function(){
+        $("#answers").empty();
+        currentFilter="1000";
         newQuestion(words,currentFilter); 
     });
     $("#nextButton").on("click",function(){

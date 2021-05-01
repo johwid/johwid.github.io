@@ -25,6 +25,9 @@ def make_json(csvFilePath, jsonFilePath):
             # be the primary key
             #key = rows['No']
             #data[key] = rows
+            #print(rows['category'].split(";"))            
+            rows['category']=rows['category'].split(";")
+
             words.append(rows)
 
     content["words"]=words 
@@ -34,6 +37,7 @@ def make_json(csvFilePath, jsonFilePath):
     with open(jsonFilePath, 'w', encoding='utf-8') as jsonf:
         jsonf.write("wordDeck=")
         jsonf.write(json.dumps(content, indent=4,ensure_ascii=False))
+        #jsonf.write(json.dumps(content,ensure_ascii=False))
          
 # Driver Code
  

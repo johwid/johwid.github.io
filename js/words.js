@@ -5,7022 +5,17325 @@ wordDeck={
         {
             "rus": "да",
             "eng": "Yes",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Машина",
             "eng": "Car",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "автобус",
             "eng": "Bus",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "самолет",
             "eng": "Airplane",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "мопед",
             "eng": "Moped",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "мотоцикл",
             "eng": "Motorcycle",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Тренироваться",
             "eng": "Train",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Метро",
             "eng": "Subway",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Вилка",
             "eng": "Fork",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Нож",
             "eng": "Knife",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ложка",
             "eng": "Spoon",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Кровать",
             "eng": "Bed",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Диван",
             "eng": "Sofa",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Стул",
             "eng": "Chair",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Окно",
             "eng": "Window",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Оратор",
             "eng": "Speaker",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Фонарь",
             "eng": "Lamp",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Цветок",
             "eng": "Flower",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Шляпа",
             "eng": "Hat",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Горшок",
             "eng": "Pot",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Атака",
             "eng": "Attack",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Защищать",
             "eng": "Defend",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Стрелять",
             "eng": "Shoot",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Прыгать",
             "eng": "Jump",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Говорить",
             "eng": "Talk",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Приносить",
             "eng": "Bring",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Покинуть",
             "eng": "Leave",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Находить",
             "eng": "Find",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Принести",
             "eng": "Fetch",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Уронить",
             "eng": "Drop",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Бросать",
             "eng": "Throw",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Вращение",
             "eng": "Spin",
-            "category": ""
-        },
-        {
-            "rus": "Прыгать",
-            "eng": "Jump",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ползти",
             "eng": "Crawl",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Рулон",
             "eng": "Roll",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ходить",
             "eng": "Walk",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Есть",
             "eng": "Eat",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Напиток",
             "eng": "Drink",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ненавидеть",
             "eng": "Hate",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Любовь",
             "eng": "Love",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ручка",
             "eng": "Pen",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Карандаш",
             "eng": "Pencil",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Рисовать",
             "eng": "Draw",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Покрасить",
             "eng": "Paint",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Запустить",
             "eng": "Run",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Плавать",
             "eng": "Swim",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Взбираться",
             "eng": "Climb",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Глава",
             "eng": "Head",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Рука",
             "eng": "Arm",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Нога",
             "eng": "Leg",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ноги",
             "eng": "Feet",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Рука",
             "eng": "Hand",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Жопа",
             "eng": "Ass",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Волосы",
             "eng": "Hair",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Глаза",
             "eng": "Eyes",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "веко",
             "eng": "Eyelid",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Рот",
             "eng": "Mouth",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Уши",
             "eng": "Ears",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Нос",
             "eng": "Nose",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ноготь",
             "eng": "Nail",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Палец на ноге",
             "eng": "Toe",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "свеча",
             "eng": "Candle",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Крыша",
             "eng": "Roof",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "стена",
             "eng": "Wall",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Гараж",
             "eng": "Garage",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "переулок",
             "eng": "Lane",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "стоп-сигнал",
             "eng": "Stoplight",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "мусорное ведро",
             "eng": "Bin",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Мусор",
             "eng": "Garbage",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "башмак",
             "eng": "Shoe",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Рубашка",
             "eng": "Shirt",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Брюки",
             "eng": "Trousers",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ботинок",
             "eng": "Boot",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "ботинки",
             "eng": "Boots",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Пиджак",
             "eng": "Jacket",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Пальто",
             "eng": "Coat",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "гриль",
             "eng": "Grill",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Велосипед",
             "eng": "Bike",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Знак",
             "eng": "Sign",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "коммерческий",
             "eng": "Commercial",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Коробка",
             "eng": "Box",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Контейнер",
             "eng": "Container",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "шишка",
             "eng": "Cone",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Pott",
             "eng": "Pott",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Картина",
             "eng": "Painting",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "клавиатура",
             "eng": "Keyboard",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "мышь",
             "eng": "Mouse",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "компьютер",
             "eng": "Computer",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Glas",
             "eng": "Glas",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Одежда",
             "eng": "Clothes",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "ткань",
             "eng": "Cloth",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Белье",
             "eng": "Linen",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "солнце",
             "eng": "Sun",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Облако",
             "eng": "Cloud",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Луна",
             "eng": "Moon",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Небо",
             "eng": "Sky",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Море",
             "eng": "Sea",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "озеро",
             "eng": "Lake",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Космос",
             "eng": "Space",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "бочка",
             "eng": "Barrel",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Кот",
             "eng": "Cat",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Собака",
             "eng": "Dog",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Корова",
             "eng": "Cow",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Птица",
             "eng": "Bird",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "орел",
             "eng": "Eagle",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "змея",
             "eng": "Snake",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Он",
             "eng": "He",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Она",
             "eng": "She",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ему",
             "eng": "Him",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Мой",
             "eng": "My",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Мне",
             "eng": "Me",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ее",
             "eng": "Her",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Его",
             "eng": "His",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "ее",
             "eng": "Hers",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Они",
             "eng": "They",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "их",
             "eng": "Theirs",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Мы",
             "eng": "We",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Нас",
             "eng": "Us",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Стоп",
             "eng": "Stop",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Начинать",
             "eng": "Start",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Рыбы",
             "eng": "Fish",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Мясо",
             "eng": "Meat",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Колесо",
             "eng": "Wheel",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Пинать",
             "eng": "Kick",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Дерево",
             "eng": "Tree",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "лес",
             "eng": "Forest",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Древесина",
             "eng": "Wood",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "гора",
             "eng": "Mountain",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Враг",
             "eng": "Enemy",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "друг",
             "eng": "Friend",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Дружелюбно",
             "eng": "Friendly",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Имеет",
             "eng": "Has",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Есть",
             "eng": "Have",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Имел",
             "eng": "Had",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Идти",
             "eng": "Go",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Идет",
             "eng": "Goes",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Давайте",
             "eng": "Lets",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Строить",
             "eng": "Build",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Уничтожьте",
             "eng": "Demolish",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Меч",
             "eng": "Sword",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Щит",
             "eng": "Shield",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Молоток",
             "eng": "Hammer",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "булава",
             "eng": "Mace",
-            "category": ""
-        },
-        {
-            "rus": "Ноготь",
-            "eng": "Nail",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Увидел",
             "eng": "Saw",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Видеть",
             "eng": "See",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Запах",
             "eng": "Smell",
-            "category": ""
-        },
-        {
-            "rus": "Находить",
-            "eng": "Find",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Нашел",
             "eng": "Found",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Камень",
             "eng": "Stone",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Кукуруза",
             "eng": "Corn",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "ваза",
             "eng": "Vase",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Доктор",
             "eng": "Doctor",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Медсестра",
             "eng": "Nurse",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Инженер",
             "eng": "Engineer",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Будет",
             "eng": "Will",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Должен",
             "eng": "Should",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Мог",
             "eng": "Could",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Может быть",
             "eng": "Maybe",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Книга",
             "eng": "Book",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "журнал",
             "eng": "Magazine",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Носок",
             "eng": "Sock",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "валун",
             "eng": "Boulder",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "колба",
             "eng": "Flask",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "воздушный шар",
             "eng": "Balloon",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Извлекать",
             "eng": "Extract",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Точный",
             "eng": "Exact",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "секира",
             "eng": "Axe",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "гарпун",
             "eng": "Spear",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "похлопывание",
             "eng": "Pat",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Для",
             "eng": "For",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Может",
             "eng": "Can",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Не могу",
             "eng": "Can not",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Гардероб",
             "eng": "Wardrobe",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Банка",
             "eng": "Jar",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "ванная комната",
             "eng": "Bathroom",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "спальная комната",
             "eng": "Bedroom",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Номер",
             "eng": "Room",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Квартира",
             "eng": "Apartment",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "жилой дом",
             "eng": "House",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Исправить",
             "eng": "Fix",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Спать",
             "eng": "Sleep",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Вставай",
             "eng": "Wake up",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Умри",
             "eng": "Die",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Жить",
             "eng": "Live",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Счастливый",
             "eng": "Happy",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Грустный",
             "eng": "Sad",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Список",
             "eng": "List",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Слово",
             "eng": "Word",
-            "category": ""
-        },
-        {
-            "rus": "компьютер",
-            "eng": "Computer",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "эскалатор",
             "eng": "Escalator",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Лифт",
             "eng": "Elevator",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Дверь",
             "eng": "Door",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Песок",
             "eng": "Sand",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "галечник",
             "eng": "Gravel",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "рок",
             "eng": "Rock",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Корень",
             "eng": "Root",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Пиво",
             "eng": "Beer",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "ныть",
             "eng": "Whine",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Вино",
             "eng": "Wine",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Игра",
             "eng": "Game",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Хорошо",
             "eng": "Good",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Плохо",
             "eng": "Bad",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "В среднем",
             "eng": "Average",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Середина",
             "eng": "Medium",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Высокая",
             "eng": "High",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Выше",
             "eng": "Higher",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Низкий",
             "eng": "Low",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ниже",
             "eng": "Lower",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Вставлять",
             "eng": "Insert",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Удалять",
             "eng": "Remove",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Отвод",
             "eng": "Retract",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Вперед",
             "eng": "Forward",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "назад",
             "eng": "Backward",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "вбок",
             "eng": "Sideways",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Оставил",
             "eng": "Left",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Верно",
             "eng": "Right",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Назад",
             "eng": "Back",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Вверх",
             "eng": "Up",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Вниз",
             "eng": "Down",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "по диагонали",
             "eng": "Diagonally",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Glases",
             "eng": "Glases",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Очки",
             "eng": "Spectacles",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Острый",
             "eng": "Sharp",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Скучный",
             "eng": "Dull",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Странный",
             "eng": "Strange",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Жаждущий",
             "eng": "Eager",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Любопытный",
             "eng": "Curious",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сердитый",
             "eng": "Angry",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Тупой",
             "eng": "Dumb",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Идиот",
             "eng": "Idiot",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сумасшедший",
             "eng": "Crazy",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Лосьон",
             "eng": "Lotion",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Халат",
             "eng": "Robe",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Почта",
             "eng": "Mail",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Флаг",
             "eng": "Flag",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Страна",
             "eng": "Country",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Земля",
             "eng": "Land",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Линия",
             "eng": "Line",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
-            "rus": "Область, край",
+            "rus": "Область; край",
             "eng": "Region",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Пейзаж",
             "eng": "Landscape",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Мост",
             "eng": "Bridge",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "пляж",
             "eng": "Beach",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Огонь",
             "eng": "Fire",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Лед",
             "eng": "Ice",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Болото",
             "eng": "Swamp",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Пустыня",
             "eng": "Desert",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Лагерь",
             "eng": "Camp",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "к северу",
             "eng": "North",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "юг",
             "eng": "South",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Восток",
             "eng": "East",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Запад",
             "eng": "West",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "юго-запад",
             "eng": "Southwest",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "юго-восток",
             "eng": "Southeast",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Nortwest",
             "eng": "Nortwest",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "К северо-востоку",
             "eng": "Northeast",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "январь",
             "eng": "January",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "февраль",
             "eng": "February",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "маршировать",
             "eng": "March",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "апреля",
             "eng": "April",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "июнь",
             "eng": "June",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "июль",
             "eng": "July",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "август",
             "eng": "August",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "сентябрь",
             "eng": "September",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "октября",
             "eng": "October",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "ноябрь",
             "eng": "November",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Декабрь",
             "eng": "December",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Весна",
             "eng": "Spring",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Летом",
             "eng": "Summer",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Autum",
             "eng": "Autum",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Зима",
             "eng": "Winter",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Четверть",
             "eng": "Quarter",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Половина",
             "eng": "Half",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Полный",
             "eng": "Full",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Пустой",
             "eng": "Empty",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "осел",
             "eng": "Donkey",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Лошадь",
             "eng": "Horse",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "обезьянничать",
             "eng": "Ape",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Обезьяна",
             "eng": "Monkey",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Овец",
             "eng": "Sheep",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Козел",
             "eng": "Goat",
-            "category": ""
-        },
-        {
-            "rus": "Собака",
-            "eng": "Dog",
-            "category": ""
-        },
-        {
-            "rus": "Кот",
-            "eng": "Cat",
-            "category": ""
-        },
-        {
-            "rus": "змея",
-            "eng": "Snake",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "ящерица",
             "eng": "Lizard",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Выход",
             "eng": "Outlet",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Свет",
             "eng": "Light",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ручка",
             "eng": "Handle",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "ручка",
             "eng": "Knob",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Расскажи",
             "eng": "Tell",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сказать",
             "eng": "Say",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Команда",
             "eng": "Team",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Шепот",
             "eng": "Whisper",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Смех",
             "eng": "Laugh",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Хлеб",
             "eng": "Bread",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "я",
             "eng": "I",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Хочу",
             "eng": "Want",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "К",
             "eng": "To",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Тоже",
             "eng": "Too",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "большой",
             "eng": "Great",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Неясно",
             "eng": "Unclear",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "неуверенный",
             "eng": "Uncertain",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Определенный",
             "eng": "Certain",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Конечно",
             "eng": "Sure",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Кислый",
             "eng": "Sour",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сладкий",
             "eng": "Sweet",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Соль",
             "eng": "Salt",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Перец",
             "eng": "Pepper",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "пряность",
             "eng": "Spice",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "специи",
             "eng": "Spices",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Веселье",
             "eng": "Fun",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Забавный",
             "eng": "Funny",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Мир",
             "eng": "World",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Раздел",
             "eng": "Section",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Часть",
             "eng": "Part",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "континент",
             "eng": "Continent",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "остров",
             "eng": "Island",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "морское дно",
             "eng": "Seabed",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "канал",
             "eng": "Canal",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "шеф-повар",
             "eng": "Chef",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Кухня",
             "eng": "Kitchen",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Холодильник",
             "eng": "Fridge",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "морозилка",
             "eng": "Freezer",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Печь",
             "eng": "Oven",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Печь",
             "eng": "Stove",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "вакуум",
             "eng": "Vacuum",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Чистый",
             "eng": "Clean",
-            "category": ""
-        },
-        {
-            "rus": "Удалять",
-            "eng": "Remove",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Добавлять",
             "eng": "Add",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Изменить",
             "eng": "Modify",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Изменять",
             "eng": "Change",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Музыка",
             "eng": "Music",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Звук",
             "eng": "Sound",
-            "category": ""
-        },
-        {
-            "rus": "Шум",
-            "eng": "Noise",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Громкий",
             "eng": "Loud",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Действие",
             "eng": "Action",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Говорить",
             "eng": "Speak",
-            "category": ""
-        },
-        {
-            "rus": "Бросать",
-            "eng": "Throw",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ловить",
             "eng": "Catch",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Забрать",
             "eng": "Retrieve",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Копать",
             "eng": "Dig",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Наполнять",
             "eng": "Fill",
-            "category": ""
-        },
-        {
-            "rus": "Полный",
-            "eng": "Full",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "На",
             "eng": "On",
-            "category": "conjugation"
+            "category": [
+                "conjunction"
+            ]
         },
         {
             "rus": "Выключенный",
             "eng": "Off",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Повернуть",
             "eng": "Turn",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Крутить",
             "eng": "Twist",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сжимать",
             "eng": "Squeeze",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Держать",
             "eng": "Hold",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Точка",
             "eng": "Point",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Кончик",
             "eng": "Tip",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Монета",
             "eng": "Coin",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Золото",
             "eng": "Gold",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Серебро",
             "eng": "Silver",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Медь",
             "eng": "Copper",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "алюминий",
             "eng": "Aluminum",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "металл",
             "eng": "Metal",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "рудный",
             "eng": "Ore",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Бассейн",
             "eng": "Pool",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Бревно",
             "eng": "Log",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Creme",
             "eng": "Creme",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "увлажненный",
             "eng": "Moist",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Влажный",
             "eng": "Damp",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "чаша",
             "eng": "Bowl",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Мама",
             "eng": "Mom",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Папа",
             "eng": "Dad",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Дед",
             "eng": "Grandfather",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Бабушка",
             "eng": "Grandmother",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сын",
             "eng": "Son",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Дочь",
             "eng": "Daughter",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Родной брат",
             "eng": "Brother",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сестра",
             "eng": "Sister",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Двоюродная сестра",
             "eng": "Cousin",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Родственник",
             "eng": "Relative",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Связанный",
             "eng": "Related",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ожидающий",
             "eng": "Waiting",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "загрузка",
             "eng": "Loading",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "обнаружение",
             "eng": "Finding",
-            "category": ""
-        },
-        {
-            "rus": "Нашел",
-            "eng": "Found",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "готовить",
             "eng": "Cook",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Создавать",
             "eng": "Create",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Изобретать",
             "eng": "Invent",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Литература",
             "eng": "Literature",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "интернет",
             "eng": "Internet",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "кабель",
             "eng": "Cable",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Трубка",
             "eng": "Pipe",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Кастрюля",
             "eng": "Pan",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Skillet",
             "eng": "Skillet",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Соус",
             "eng": "Sauce",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сок",
             "eng": "Juice",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Лягушка",
             "eng": "Frog",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Алкоголь",
             "eng": "Alcohol",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "щелок",
             "eng": "Liquor",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Грубый",
             "eng": "Rude",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Быть",
             "eng": "Be",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Год",
             "eng": "Year",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Должен",
             "eng": "Shall",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Делать",
             "eng": "Do",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Блокировать",
             "eng": "Block",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Скучать",
             "eng": "Miss",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ударить",
             "eng": "Hit",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Вершина",
             "eng": "Top",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Нижний",
             "eng": "Bottom",
-            "category": ""
-        },
-        {
-            "rus": "Ненавидеть",
-            "eng": "Hate",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Преступление",
             "eng": "Crime",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Совершить",
             "eng": "Commit",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "объем памяти",
             "eng": "Memory",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Навык",
             "eng": "Skill",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Случается",
             "eng": "Happening",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "общественного",
             "eng": "Public",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ненормальный",
             "eng": "Freak",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Так",
             "eng": "So",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Кто",
             "eng": "Who",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Первый",
             "eng": "First",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Второй",
             "eng": "Second",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Время",
             "eng": "Time",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Последний",
             "eng": "Last",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ярость",
             "eng": "Rage",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Покидать",
             "eng": "Quit",
-            "category": ""
-        },
-        {
-            "rus": "Флаг",
-            "eng": "Flag",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "День",
             "eng": "Day",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Месяц",
             "eng": "Month",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Неделя",
             "eng": "Week",
-            "category": ""
-        },
-        {
-            "rus": "Год",
-            "eng": "Year",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "десятилетие",
             "eng": "Decade",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Малыш",
             "eng": "Baby",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Человек",
             "eng": "Human",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Документ",
             "eng": "Document",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Верный",
             "eng": "Correct",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Вещь",
             "eng": "Thing",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Наш",
             "eng": "Our",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Новый",
             "eng": "New",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Нанимать",
             "eng": "Hire",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сделал",
             "eng": "Did",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Было",
             "eng": "Was",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Навсегда",
             "eng": "Forever",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Пользователь",
             "eng": "User",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Присоединиться",
             "eng": "Join",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Облегчение",
             "eng": "Relief",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Представлять на рассмотрение",
             "eng": "Submit",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Перед",
             "eng": "Before",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "После",
             "eng": "After",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Решать",
             "eng": "Decide",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Весь",
             "eng": "Entire",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Голосование",
             "eng": "Vote",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Без",
             "eng": "Without",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "В",
             "eng": "At",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Суд",
             "eng": "Court",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Позволять",
             "eng": "Let",
-            "category": ""
-        },
-        {
-            "rus": "Коробка",
-            "eng": "Box",
-            "category": ""
-        },
-        {
-            "rus": "Почта",
-            "eng": "Mail",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Мертвый",
             "eng": "Dead",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Причина",
             "eng": "Reason",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "О",
             "eng": "About",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Концерт",
             "eng": "Concert",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Обеспокоенность",
             "eng": "Concerns",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Личность",
             "eng": "Identity",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Идентифицировать",
             "eng": "Identify",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Перерыв",
             "eng": "Break",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "прибой",
             "eng": "Surf",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "нелегальный",
             "eng": "Illegal",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "легальный",
             "eng": "Legal",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Свалка",
             "eng": "Dump",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Старый",
             "eng": "Old",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Собственный",
             "eng": "Own",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Владелец",
             "eng": "Owner",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Лодка",
             "eng": "Boat",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Корабль",
             "eng": "Ship",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "бой",
             "eng": "Combat",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "понедельник",
             "eng": "Monday",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "вторник",
             "eng": "Tuesday",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "среда",
             "eng": "Wednesday",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Четверг",
             "eng": "Thursday",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Пятница",
             "eng": "Friday",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Staturday",
             "eng": "Staturday",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Воскресенье",
             "eng": "Sunday",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Бедные",
             "eng": "Poor",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Там",
             "eng": "There",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Позволять",
             "eng": "Allow",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Отклонить",
             "eng": "Decline",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Направление",
             "eng": "Direction",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Позже",
             "eng": "Later",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "улица",
             "eng": "Street",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Дорога",
             "eng": "Road",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Запуск",
             "eng": "Launch",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Телефон",
             "eng": "Phone",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Похороны",
             "eng": "Funeral",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "окончательный",
             "eng": "Final",
-            "category": ""
-        },
-        {
-            "rus": "Слово",
-            "eng": "Word",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Приговор",
             "eng": "Sentence",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "драма",
             "eng": "Drama",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Другой",
             "eng": "Other",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Другой",
             "eng": "Another",
-            "category": ""
-        },
-        {
-            "rus": "Уронить",
-            "eng": "Drop",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "В",
             "eng": "Into",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Безопасный",
             "eng": "Safe",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Своего рода",
             "eng": "Kind",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Вроде",
             "eng": "Kinda",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Приходящий",
             "eng": "Coming",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Отвечать",
             "eng": "Reply",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Вместо",
             "eng": "Instead",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Отчет",
             "eng": "Report",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Выполнять",
             "eng": "Perform",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сообщение",
             "eng": "Message",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Вопрос",
             "eng": "Question",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Чувствовать",
             "eng": "Feel",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Кто-то",
             "eng": "Someone",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Некоторый",
             "eng": "Some",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Купить",
             "eng": "Buy",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Стеллы",
             "eng": "Stell",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Покупка",
             "eng": "Purchase",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Отмена",
             "eng": "Cancel",
-            "category": ""
-        },
-        {
-            "rus": "Удалять",
-            "eng": "Remove",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Отрицать",
             "eng": "Deny",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Принимать",
             "eng": "Accept",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Дать согласие",
             "eng": "Agree",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "не соглашаться",
             "eng": "Disagree",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "В течение",
             "eng": "During",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Пока",
             "eng": "While",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Прошло",
             "eng": "Gone",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Пропадать",
             "eng": "Disappear",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Vanish",
             "eng": "Vanish",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "убирайся",
             "eng": "Begone",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Потерянный",
             "eng": "Lost",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Доверять",
             "eng": "Trust",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "мужчина",
             "eng": "Man",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Женщина",
             "eng": "Woman",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Мальчик",
             "eng": "Boy",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Девочка",
             "eng": "Girl",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Случаться",
             "eng": "Happen",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "охотник",
             "eng": "Hunter",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "воин",
             "eng": "Warrior",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Священник",
             "eng": "Priest",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "друид",
             "eng": "Druid",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Негодяй",
             "eng": "Rogue",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "паладин",
             "eng": "Paladin",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "шаман",
             "eng": "Shaman",
-            "category": ""
-        },
-        {
-            "rus": "Принимать",
-            "eng": "Accept",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Утвердительный",
             "eng": "Affirmative",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "отрицательный",
             "eng": "Negative",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Один",
             "eng": "1",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Два",
             "eng": "2",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Три",
             "eng": "3",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "четыре",
             "eng": "4",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Пять",
             "eng": "5",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Шесть",
             "eng": "6",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Семь",
             "eng": "7",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Восемь",
             "eng": "8",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Девять",
             "eng": "9",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Десять",
             "eng": "10",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Одиннадцать",
             "eng": "11",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Двенадцать",
             "eng": "12",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Тринадцать",
             "eng": "13",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "четырндцать",
             "eng": "14",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Пятнадцать",
             "eng": "15",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Шестнадцать",
             "eng": "16",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Семнадцать",
             "eng": "17",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Восемнадцать",
             "eng": "18",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Девятнадцать",
             "eng": "19",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Двадцать",
             "eng": "20",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Двадцать один",
             "eng": "21",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Него",
             "eng": "him",
-            "category": "pronom"
+            "category": [
+                "pronom"
+            ]
         },
         {
             "rus": "Себя",
             "eng": "myself",
-            "category": "pronom"
+            "category": [
+                "pronom"
+            ]
         },
         {
             "rus": "Такую",
             "eng": "such",
-            "category": "pronom"
+            "category": [
+                "pronom"
+            ]
         },
         {
             "rus": "Ваши",
             "eng": "your",
-            "category": "pronom"
+            "category": [
+                "pronom"
+            ]
         },
         {
             "rus": "Я",
             "eng": "I/me (första person)",
-            "category": "pronom"
+            "category": [
+                "pronom"
+            ]
         },
         {
             "rus": "Мы",
             "eng": "we",
-            "category": "pronom"
+            "category": [
+                "pronom"
+            ]
         },
         {
             "rus": "Ты",
             "eng": "you (singular)",
-            "category": "pronom"
+            "category": [
+                "pronom"
+            ]
         },
         {
             "rus": "Вы",
             "eng": "you (plural)",
-            "category": "pronom"
+            "category": [
+                "pronom"
+            ]
         },
         {
             "rus": "Он",
             "eng": "he",
-            "category": "pronom"
+            "category": [
+                "pronom"
+            ]
         },
         {
             "rus": "Она",
             "eng": "she",
-            "category": "pronom"
+            "category": [
+                "pronom"
+            ]
         },
         {
             "rus": "Oно",
             "eng": "it (tredje person)",
-            "category": "pronom"
+            "category": [
+                "pronom"
+            ]
         },
         {
             "rus": "Они",
             "eng": "they",
-            "category": "pronom"
+            "category": [
+                "pronom"
+            ]
         },
         {
             "rus": "В",
             "eng": "in (generally in something) (going to place)",
-            "category": "conjugation"
+            "category": [
+                "conjunction"
+            ]
         },
         {
             "rus": "K",
             "eng": "to (going to person)",
-            "category": "conjugation"
+            "category": [
+                "conjunction"
+            ]
         },
         {
             "rus": "О",
             "eng": "about",
-            "category": "conjugation"
+            "category": [
+                "conjunction"
+            ]
         },
         {
             "rus": "И",
             "eng": "and",
-            "category": "conjugation"
+            "category": [
+                "conjunction"
+            ]
         },
         {
             "rus": "У",
             "eng": "I/me/at",
-            "category": "conjugation"
+            "category": [
+                "conjunction"
+            ]
         },
         {
             "rus": "У нас",
             "eng": "we have",
-            "category": "conjugation"
+            "category": [
+                "conjunction"
+            ]
         },
         {
             "rus": "а",
-            "eng": "and, or, but (context)",
-            "category": "conjugation"
+            "eng": "and; or; but (context)",
+            "category": [
+                "conjunction"
+            ]
         },
         {
             "rus": "На",
             "eng": "at (generally outdoor)",
-            "category": "conjugation"
+            "category": [
+                "conjunction"
+            ]
         },
         {
             "rus": "От",
             "eng": "from",
-            "category": "conjugation"
+            "category": [
+                "conjunction"
+            ]
         },
         {
             "rus": "Но",
             "eng": "but",
-            "category": "conjugation"
+            "category": [
+                "conjunction"
+            ]
         },
         {
             "rus": "По",
             "eng": "by",
-            "category": "conjugation"
+            "category": [
+                "conjunction"
+            ]
         },
         {
             "rus": "Ли",
             "eng": "weather",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "За",
             "eng": "for",
-            "category": "conjugation"
+            "category": [
+                "conjunction"
+            ]
         },
         {
             "rus": "Зи",
             "eng": "from",
-            "category": "conjugation"
+            "category": [
+                "conjunction"
+            ]
         },
         {
             "rus": "Ну",
             "eng": "well (here)",
-            "category": "conjugation"
+            "category": [
+                "conjunction"
+            ]
         },
         {
             "rus": "Хм",
             "eng": "hmm (betänkande)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ой",
             "eng": "Oh",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Об",
             "eng": "about",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "До",
             "eng": "to",
-            "category": "conjugation"
+            "category": [
+                "conjunction"
+            ]
         },
         {
             "rus": "Нет",
             "eng": "not",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Не",
             "eng": "no",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Из",
             "eng": "of / from /out (of) / among",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Вот",
             "eng": "behold",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Тут",
             "eng": "here",
-            "category": "conjugation"
+            "category": [
+                "conjunction"
+            ]
         },
         {
             "rus": "Здесь",
             "eng": "here",
-            "category": "conjugation"
+            "category": [
+                "conjunction"
+            ]
         },
         {
             "rus": "Где",
             "eng": "where",
-            "category": "conjugation"
+            "category": [
+                "conjunction"
+            ]
         },
         {
             "rus": "Там",
             "eng": "there",
-            "category": "conjugation"
+            "category": [
+                "conjunction"
+            ]
         },
         {
             "rus": "Кто",
             "eng": "who",
-            "category": "pronom"
+            "category": [
+                "pronom"
+            ]
         },
         {
             "rus": "Почему",
             "eng": "why",
-            "category": ""
-        },
-        {
-            "rus": "Для",
-            "eng": "for",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Так",
-            "eng": "so, like, that, thus",
-            "category": ""
+            "eng": "so; like; that; thus",
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Вас",
             "eng": "your",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Есть",
             "eng": "(there) is",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Что",
             "eng": "what",
-            "category": "conjugation"
+            "category": [
+                "conjunction"
+            ]
         },
         {
             "rus": "Как",
             "eng": "what",
-            "category": "conjugation"
+            "category": [
+                "conjunction"
+            ]
         },
         {
             "rus": "Сих",
             "eng": "these",
-            "category": "conjugation"
+            "category": [
+                "conjunction"
+            ]
         },
         {
             "rus": "Пор",
             "eng": "since",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Под",
             "eng": "under",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "над",
             "eng": "over",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ед",
             "eng": "food",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Еды",
             "eng": "food",
-            "category": ""
-        },
-        {
-            "rus": "Лес",
-            "eng": "forest",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "получите",
             "eng": "get",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "продавец",
             "eng": "seller",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "общая",
             "eng": "general",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "громкость",
             "eng": "volume",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сумках",
             "eng": "bags",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Коготь",
             "eng": "claw",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "создать",
             "eng": "(to) create",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "бочонк",
             "eng": "keg",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Долина",
             "eng": "valley",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Соборная",
             "eng": "cathedral",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Дай",
             "eng": "give",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Дайте",
             "eng": "give",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Зато",
             "eng": "but",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Меня",
             "eng": "me",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Мне",
             "eng": "jag",
-            "category": "pronom"
+            "category": [
+                "pronom"
+            ]
         },
         {
             "rus": "Вам",
             "eng": "you/du",
-            "category": "pronom"
+            "category": [
+                "pronom"
+            ]
         },
         {
             "rus": "Тиы",
             "eng": "you (singular)",
-            "category": "pronom"
-        },
-        {
-            "rus": "Вы",
-            "eng": "you (plural)",
-            "category": "pronom"
+            "category": [
+                "pronom"
+            ]
         },
         {
             "rus": "Всё",
             "eng": "all / everything",
-            "category": "pronom"
+            "category": [
+                "pronom"
+            ]
         },
         {
             "rus": "Это",
-            "eng": "this, that, it",
-            "category": "pronom"
+            "eng": "this; that; it",
+            "category": [
+                "pronom"
+            ]
         },
         {
             "rus": "Этот",
             "eng": "this",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Эта",
             "eng": "this",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Эти",
             "eng": "this",
-            "category": ""
-        },
-        {
-            "rus": "Хочу",
-            "eng": "want",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Хотят",
             "eng": "want",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Могу",
             "eng": "can",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ком",
             "eng": "lump",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "О ком",
             "eng": "who’s",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "О чём",
             "eng": "what are",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Куда",
             "eng": "where to",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Заболел",
             "eng": "you are joking",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Поговорите",
             "eng": "talk(to)",
-            "category": ""
-        },
-        {
-            "rus": "Звук",
-            "eng": "sound",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Письмо",
             "eng": "letter",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Нижняя",
             "eng": "bottom",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Низ",
             "eng": "bottom",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Гнев",
             "eng": "anger",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Пора",
             "eng": "it is time",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сапоги",
             "eng": "boots",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Магазин",
             "eng": "store / market",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Рынок",
             "eng": "market",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Юбка",
             "eng": "skirt",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Кролик",
             "eng": "rabbit",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Любимый",
             "eng": "favorite",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Думаешь",
             "eng": "think",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Думае",
             "eng": "think",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "О новом",
             "eng": "new",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Главное",
             "eng": "the main thing",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "пряные",
             "eng": "spicy",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Травы",
             "eng": "herbs",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Хочешь",
             "eng": "do you want",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Цвет",
             "eng": "color",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "серьезный",
             "eng": "serious",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Кольцо",
             "eng": "ring",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Меры",
             "eng": "measure",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Страны",
             "eng": "country",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "требуют",
             "eng": "require",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Остановить",
             "eng": "stop",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "насилие",
             "eng": "violence",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Примирть",
             "eng": "reconcile",
-            "category": ""
-        },
-        {
-            "rus": "решать",
-            "eng": "decide",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "решила",
             "eng": "decided",
-            "category": ""
-        },
-        {
-            "rus": "Позже",
-            "eng": "later",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "роскоши",
             "eng": "luxury",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Рядом",
             "eng": "nearby",
-            "category": ""
-        },
-        {
-            "rus": "Вилка",
-            "eng": "fork",
-            "category": ""
-        },
-        {
-            "rus": "Нож",
-            "eng": "knife",
-            "category": ""
-        },
-        {
-            "rus": "Ложка",
-            "eng": "spoon",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Меню",
             "eng": "menu",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "с кем",
             "eng": "with whom",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Забыл",
             "eng": "forgot",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ходил",
             "eng": "walked",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ездил",
             "eng": "traveled (back and forth)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Великобритания",
             "eng": "Great Britain",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Тренировке",
             "eng": "workout / practice",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Всегда",
             "eng": "always",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Обычно",
             "eng": "normally / usually",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Только",
             "eng": "only",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Оста-",
-            "eng": "stop, leave, stay",
-            "category": ""
+            "eng": "stop; leave; stay",
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ищет",
             "eng": "looking for",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Пути",
             "eng": "the way / path",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "втором",
             "eng": "second",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "обвинили",
             "eng": "accused",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "причастности",
             "eng": "involevment",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "обещает",
             "eng": "promises",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "замедляет",
             "eng": "slow down",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Рудник",
             "eng": "mine (ground)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Кажется",
             "eng": "it seems",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "требовать",
             "eng": "demand",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "потребовала",
             "eng": "demanded",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "цепляться",
             "eng": "cling",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "цепляются",
             "eng": "clinging to",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "число",
             "eng": "number",
-            "category": ""
-        },
-        {
-            "rus": "Говорить",
-            "eng": "speak",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Я говорю",
             "eng": "I say",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ты говоришь",
             "eng": "You say",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Он/она/оно говорит",
             "eng": "He / she / it speaks",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Мы говорим",
             "eng": "We are talking",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Вы говорите",
             "eng": "You speak",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Они говоят",
             "eng": "They talk",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Завершить",
             "eng": "to complete",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Пртнять",
             "eng": "accept / admit",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Тоже",
             "eng": "also",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Также",
             "eng": "also",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Когда",
             "eng": "when",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Тогда",
             "eng": "then",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Руда",
             "eng": "ore",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Гром",
             "eng": "thunder",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Громко",
             "eng": "loud",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Громил",
             "eng": "thug",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Лоскут",
             "eng": "flap",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Такое",
             "eng": "such",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Такую",
             "eng": "such",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Такая",
             "eng": "so",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Костюм",
             "eng": "kostym",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Думаю",
             "eng": "think",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Снова",
             "eng": "again",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сделал",
             "eng": "made",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "расследует",
             "eng": "investigate",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "связь",
             "eng": "connection",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "между",
             "eng": "between",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "спустя",
             "eng": "later",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "пригрозил",
             "eng": "threatened",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "через",
             "eng": "across",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "ответил",
             "eng": "replied",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Слова",
             "eng": "the words",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "называется",
             "eng": "called",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Цели",
             "eng": "goals / target",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Эль",
             "eng": "ale",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Вино",
             "eng": "whine",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сьор",
             "eng": "collection",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Читать",
             "eng": "läsa",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Я Читаю",
             "eng": "i read (första person)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ты читаешь",
             "eng": "you read",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Вы читаете",
             "eng": "you read",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Он/она/оно читает",
             "eng": "he/she/it is reading",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Мы читаем",
             "eng": "we are reading",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Оин читают",
             "eng": "they are reading",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "обсуждает",
             "eng": "discuss",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Слушать",
             "eng": "listen",
-            "category": ""
-        },
-        {
-            "rus": "Только",
-            "eng": "only",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Газть",
             "eng": "newspaper",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Глава",
             "eng": "chapter",
-            "category": ""
-        },
-        {
-            "rus": "серьезный",
-            "eng": "serious",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Трудно",
             "eng": "hard",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Юге",
             "eng": "south",
-            "category": "cadinal"
+            "category": [
+                "cardinal"
+            ]
         },
         {
             "rus": "Запад",
             "eng": "west",
-            "category": "cadinal"
+            "category": [
+                "cardinal"
+            ]
         },
         {
             "rus": "Привет",
             "eng": "hello (informal)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "приговор",
             "eng": "sentence (dom)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Открытой",
             "eng": "open",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "отключение",
             "eng": "shutdown",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Метель",
             "eng": "blizzard",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ceсть",
             "eng": "sit down",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Попробует",
             "eng": "will try",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "пытается",
             "eng": "trying",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "тяжелым",
             "eng": "heavy",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Представлять",
             "eng": "introduce",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Передавать привет",
             "eng": "to send ones regard",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "счастливого",
             "eng": "happy",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "нужно",
             "eng": "need to",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Против",
             "eng": "versus",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Снег",
             "eng": "snow",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Льняной",
             "eng": "linen",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Mаериал",
             "eng": "material",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Меха",
             "eng": "fur",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "к кому",
             "eng": "to whom",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Быть",
             "eng": "be (to be)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Дело",
             "eng": "case",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Скучно",
             "eng": "boring",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Как",
             "eng": "how / what",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Какой",
             "eng": "what is",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Какая",
             "eng": "what is",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Дают",
             "eng": "at",
-            "category": "conjugation"
-        },
-        {
-            "rus": "И",
-            "eng": "and",
-            "category": "conjugation"
+            "category": [
+                "conjunction"
+            ]
         },
         {
             "rus": "А",
             "eng": "and / but (depending on context. Or just used to get flow in sentence)",
-            "category": "conjugation"
+            "category": [
+                "conjunction"
+            ]
         },
         {
             "rus": "Буду",
             "eng": "I will",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Будешь",
             "eng": "Will you",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Будет",
             "eng": "will be",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "KДавно",
             "eng": "long",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Потом",
-            "eng": "then, later",
-            "category": ""
+            "eng": "then; later",
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сейчас",
             "eng": "now",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "поверил",
             "eng": "believed",
-            "category": ""
-        },
-        {
-            "rus": "Время",
-            "eng": "time",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Смотрю",
             "eng": "watching",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Свобода",
             "eng": "freedom",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Свободное",
             "eng": "free",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Гости",
             "eng": "guests",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Гостях",
             "eng": "guests",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Знаешь",
             "eng": "you know",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Цветы",
             "eng": "flowers",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Можно",
             "eng": "can I / possible",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ещё",
-            "eng": "still, yet",
-            "category": ""
+            "eng": "still; yet",
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Существует",
             "eng": "exist",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Нам",
             "eng": "us",
-            "category": "pronom"
+            "category": [
+                "pronom"
+            ]
         },
         {
             "rus": "Нас",
             "eng": "us",
-            "category": "pronom"
+            "category": [
+                "pronom"
+            ]
         },
         {
             "rus": "Имею",
             "eng": "i have",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Твой",
             "eng": "your / yours (maskulin)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Твоя",
             "eng": "your / yours (feminin)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Дочка",
             "eng": "daughter",
-            "category": ""
-        },
-        {
-            "rus": "Сын",
-            "eng": "son",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Брат",
             "eng": "brother",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Cестра",
             "eng": "sister",
-            "category": ""
-        },
-        {
-            "rus": "Его",
-            "eng": "his",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Её",
             "eng": "her",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Их",
             "eng": "theirs (3rd person)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Идём",
             "eng": "lets go (?)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "У вас",
             "eng": "your",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Здание",
             "eng": "building",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Наш",
             "eng": "our (masc)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ваш",
             "eng": "your (formal fem)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Нашa",
             "eng": "our (fem)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Вашa",
             "eng": "your (formal fem)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Нашe",
             "eng": "our (fem)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Вашe",
             "eng": "your (formal fem)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Уверен",
             "eng": "you sure",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Потому",
             "eng": "because",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Занято",
             "eng": "occupied",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Правда",
             "eng": "really / true",
-            "category": ""
-        },
-        {
-            "rus": "Он",
-            "eng": "he",
-            "category": ""
-        },
-        {
-            "rus": "Она",
-            "eng": "she",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Родители",
             "eng": "parents",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Семья",
             "eng": "family",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сможет",
             "eng": "will be able",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Спасобо",
             "eng": "tack",
-            "category": ""
-        },
-        {
-            "rus": "Привет",
-            "eng": "hello (informal)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Помогите",
             "eng": "help",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Пожалуйста",
             "eng": "please / you are welcome",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Приятный",
             "eng": "pleasant",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Подождите",
             "eng": "wait",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Здравствуйте",
             "eng": "hello (formal)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Добрый день",
             "eng": "good afternoon (formal)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Добрый вечер",
             "eng": "good evening (formal)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Помочь",
             "eng": "help",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ладпо",
             "eng": "fine",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Как вас зовут",
             "eng": "whats your name (formal)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Как тебя зовут",
             "eng": "whats your name (informal)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Пока",
             "eng": "bye (informal) / for now / as long as",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "До свидания",
             "eng": "goodbye (bye (formal)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "До завтра",
             "eng": "see you tomorrow (informal)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Увидимся",
             "eng": "see your around (formal)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Вечер",
             "eng": "night / evening",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Вчера",
             "eng": "yesterday",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Хорошо",
             "eng": "ok/good",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Хорощий",
             "eng": "good",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Крутой",
             "eng": "cool",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Час",
             "eng": "an hour",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Раз",
             "eng": "time (times as in number of times)",
-            "category": ""
-        },
-        {
-            "rus": "время",
-            "eng": "time",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Часов",
             "eng": "o’clock",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Завтра",
             "eng": "tomorrow",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Утра",
             "eng": "morning",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Добрый вечер",
             "eng": "good evening",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "предложение",
             "eng": "offer",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "предложили",
             "eng": "offered",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Может",
             "eng": "maybe / can?",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Переходить",
             "eng": "to cross / to pass",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Передайте",
             "eng": "pass",
-            "category": ""
-        },
-        {
-            "rus": "Документ",
-            "eng": "document",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Приоб",
             "eng": "aquire",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Приобрести",
             "eng": "to aquire",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "До",
             "eng": "until",
-            "category": "conjugation"
+            "category": [
+                "conjunction"
+            ]
         },
         {
             "rus": "Место",
             "eng": "place/ seat",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Прошлой",
             "eng": "past",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Прошлом",
             "eng": "past",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Супер",
             "eng": "super / great",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Поздна",
             "eng": "late",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Предпочиать",
             "eng": "to prefer",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Большой",
             "eng": "big",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Большое",
             "eng": "big",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Немнога",
             "eng": "a little / some",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Чуть",
             "eng": "slightly",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Чуть чуть",
             "eng": "a little bit",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "оставили",
             "eng": "left (as in leave)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "уйти",
             "eng": "go away / leave",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Маленький",
             "eng": "small",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Слева",
             "eng": "left",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Справа",
             "eng": "right",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Убито",
             "eng": "killed",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Урожай",
             "eng": "harvest",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Донесене",
             "eng": "report",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "сообщил",
             "eng": "reported",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Задания",
             "eng": "tasks",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Проведите",
             "eng": "spend",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Разведку",
             "eng": "intelligence",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Рудника",
             "eng": "mine",
-            "category": ""
-        },
-        {
-            "rus": "Свеча",
-            "eng": "candle",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Доставбте",
             "eng": "deliver",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Посбылку",
             "eng": "dispatch",
-            "category": ""
-        },
-        {
-            "rus": "умри",
-            "eng": "die",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "умер",
             "eng": "died",
-            "category": ""
-        },
-        {
-            "rus": "часть",
-            "eng": "part",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "части",
             "eng": "parts",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "тюрьме",
             "eng": "prison",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "торговли",
             "eng": "trade",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "примере",
             "eng": "example",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Вы",
-            "eng": "(are) you [plural], informal",
-            "category": ""
-        },
-        {
-            "rus": "Они",
-            "eng": "they",
-            "category": ""
+            "eng": "(are) you [plural]; informal",
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Про",
-            "eng": "by, on, along",
-            "category": ""
+            "eng": "by; on; along",
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Просто",
             "eng": "just",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Правда",
             "eng": "really",
-            "category": ""
-        },
-        {
-            "rus": "Время",
-            "eng": "time",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Откуда",
             "eng": "where are you from",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "А у тебя",
             "eng": "and you (informal)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "А вас",
             "eng": "and you (formal)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Отлично",
             "eng": "great",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Столик",
             "eng": "table",
-            "category": ""
-        },
-        {
-            "rus": "Книга",
-            "eng": "book",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Телевизор",
             "eng": "television",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ноутбок",
             "eng": "laptop",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Картина",
             "eng": "picture / painting",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Билет",
             "eng": "ticket (biljett)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Комната",
             "eng": "room",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Комнаты",
             "eng": "rooms",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Счёт",
             "eng": "check / nota",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Цена",
             "eng": "price",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "куплю",
             "eng": "buy",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Классно",
             "eng": "great",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Обязательно",
             "eng": "neccessarily / definetly",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Бвшня",
             "eng": "tower",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Угла",
             "eng": "corne",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "мясн",
             "eng": "meat",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "мясник",
             "eng": "butcher",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Лару",
             "eng": "paw",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "найдите",
             "eng": "find",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "ожерелье",
             "eng": "necklace",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Маслом",
             "eng": "oil",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Берег",
             "eng": "coast (kust)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Берегоиой",
             "eng": "coastal",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Бескрайн",
             "eng": "endless (ändlös)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Крае",
             "eng": "edge",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "отнести",
             "eng": "carry",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "отнесите",
             "eng": "take",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Любить",
             "eng": "to love",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сидеть",
             "eng": "to sit",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Дома",
             "eng": "at home",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Домой",
             "eng": "homeward",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Муж",
             "eng": "man / husband",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Жена",
             "eng": "wife",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Мужу",
             "eng": "husband (dative)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Жене",
             "eng": "wife (dative)",
-            "category": ""
-        },
-        {
-            "rus": "Мужчина",
-            "eng": "man",
-            "category": ""
-        },
-        {
-            "rus": "Женщина",
-            "eng": "woman",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Уже",
             "eng": "already",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Вокзал",
             "eng": "railway station",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Школа",
             "eng": "school",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Школы",
             "eng": "schools",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Почта",
             "eng": "post office",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Приехали",
             "eng": "arrived",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "измениться",
             "eng": "change",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Значит",
             "eng": "that means / betyder",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Деньги",
             "eng": "money",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Денег",
             "eng": "money",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сто",
             "eng": "hundred",
-            "category": ""
-        },
-        {
-            "rus": "Купить",
-            "eng": "buy",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Поменять",
             "eng": "change/exchange",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Банкомат",
             "eng": "bankomat",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Скажите",
             "eng": "tell me",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Торт",
             "eng": "cake/tårta",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Заплатить",
             "eng": "pay",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Картой",
             "eng": "card",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Дела",
             "eng": "business / affairs",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Делать",
             "eng": "to do / to make",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сколько",
             "eng": "how much",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Приятного",
             "eng": "pleasant / enjoy",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Аппетита",
             "eng": "måltid",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Один",
             "eng": "one / alone (man)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Одиа",
             "eng": "one / alone (woman)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Конечно",
             "eng": "of course",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Пароль",
             "eng": "password",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Который",
             "eng": "which / what",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Туалет",
             "eng": "toalett",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Помочь",
             "eng": "need help",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Пить",
             "eng": "thirsty",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Выход",
             "eng": "exit",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Плохо",
             "eng": "feeling bad",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Спрашивает",
             "eng": "asks",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "выявлена",
             "eng": "identified",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "продолжится",
             "eng": "will continue",
-            "category": ""
-        },
-        {
-            "rus": "Суд",
-            "eng": "court",
-            "category": ""
-        },
-        {
-            "rus": "Над",
-            "eng": "over",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "рискуя",
             "eng": "risking",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Поэтому",
             "eng": "therefore",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Аэропорт",
             "eng": "airport",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Вместе",
             "eng": "together",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Беэ",
             "eng": "without",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "C Тобой",
             "eng": "with you",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Нельзя",
             "eng": "can’t",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Мечта",
             "eng": "dream",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Рад",
             "eng": "happy",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Рада",
             "eng": "happy",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Рады",
             "eng": "happy (plural)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Один",
             "eng": "alone",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Встречу",
             "eng": "meeting",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "встретиться",
             "eng": "meet",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Рождество",
             "eng": "christmas",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "беседе",
             "eng": "conversation",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "провести",
             "eng": "spend",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "двусторонний",
             "eng": "bilateral",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "саммит",
             "eng": "summit",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Видеть",
             "eng": "to see",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "случайно",
             "eng": "by chance",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Порядке",
             "eng": "(in) order",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Равно",
             "eng": "equal",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Закрой",
             "eng": "close",
-            "category": ""
-        },
-        {
-            "rus": "Рот",
-            "eng": "mouth",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Закрой рот",
             "eng": "shut up",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Шум",
             "eng": "noise",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Шумный",
             "eng": "noisy",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Умный",
             "eng": "smart",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Шумные",
             "eng": "noisy",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Жал",
             "eng": "pitty",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Порядке",
             "eng": "order (fine)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Пора",
             "eng": "time",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ничего",
             "eng": "nothing",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Удачм",
             "eng": "luck / good luck",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Увидимся",
             "eng": "see ya (we-will-see-ourselves)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Зовут",
             "eng": "name",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Стоит",
             "eng": "cost (singular)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Стоят",
             "eng": "cost (plural)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Дёшево",
             "eng": "cheap",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Дорого",
             "eng": "expensive",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Дорогая",
             "eng": "expensive",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Нифига себе",
             "eng": "wow",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Девушка",
             "eng": "young woman",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Друг",
             "eng": "friend (boyfriend)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Подруга",
             "eng": "friend (girlfriend)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Другу",
             "eng": "friend (dative)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Подруге",
             "eng": "friend (dative)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Друзья",
             "eng": "friends",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Отец",
             "eng": "father",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Холод",
             "eng": "cold",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Жара",
             "eng": "heat",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Точно",
             "eng": "right (all right) / exactly",
-            "category": ""
-        },
-        {
-            "rus": "Вопрос",
-            "eng": "question",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Слать",
             "eng": "sleep",
-            "category": ""
-        },
-        {
-            "rus": "Мясо",
-            "eng": "meat",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сыр",
             "eng": "cheese",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Рыбу",
             "eng": "fish",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Еду",
             "eng": "food",
-            "category": ""
-        },
-        {
-            "rus": "Идти",
-            "eng": "go",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Едут",
             "eng": "going",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Поедем",
             "eng": "going",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Следующий",
             "eng": "following / next / ensuing",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Холила",
             "eng": "went",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Зиачит",
             "eng": "mean / means",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ужасный",
             "eng": "terrible",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сказать",
             "eng": "to say",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Скажите",
             "eng": "excuse me",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Жить",
             "eng": "to live",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Штиь",
             "eng": "to sew",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Живёшь",
             "eng": "live",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Давно",
             "eng": "long time",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Местный",
             "eng": "local",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Здес",
             "eng": "Here",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Окне",
             "eng": "window",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Приахтеь",
             "eng": "to arrive",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "День",
             "eng": "a day",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Неделю",
             "eng": "week",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Понедельник",
             "eng": "beginning of the week",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Гуляю",
             "eng": "walking",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Год",
             "eng": "year (1)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Годa",
-            "eng": "year (2,3,4)",
-            "category": ""
+            "eng": "year (2;3;4)",
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Лет",
             "eng": "year (5-20)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Двадцать Лет/год (beroende på siffra)",
             "eng": "year (21-29)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Лет",
-            "eng": "year (30,40,50 etc)",
-            "category": ""
+            "eng": "year (30;40;50 etc)",
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Много лет",
             "eng": "many years (always лет)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Назад",
             "eng": "back / ago",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Очень",
             "eng": "very; a lot",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Надолго",
             "eng": "for a long time",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Надо",
             "eng": "need / it is neccessary",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Подарок",
             "eng": "present (gift)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Давайте",
             "eng": "let’s",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Игрока",
             "eng": "player",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ии",
             "eng": "AI",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Добавить",
             "eng": "Add (to) / Lägg till",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Озера",
             "eng": "lakes",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Острова",
             "eng": "islands",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Выбрать",
             "eng": "choose / select",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Стандарт",
             "eng": "standard",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Уровень",
             "eng": "level",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Моря",
             "eng": "seas",
-            "category": ""
-        },
-        {
-            "rus": "Море",
-            "eng": "sea",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Раз",
             "eng": "time",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Размер",
             "eng": "size",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Возраст",
             "eng": "age",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Мира",
             "eng": "the world",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Мире",
             "eng": "world",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сложно",
             "eng": "hard",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сложность",
             "eng": "complexity",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Игры",
             "eng": "games",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Игру",
             "eng": "(the) game",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "дополнительно",
             "eng": "additionally",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Победа",
             "eng": "victory",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Религия",
             "eng": "religion",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Научная",
             "eng": "science",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "культурная",
             "eng": "cultural",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Дипломатическая",
             "eng": "diplomatic",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Военная",
             "eng": "military",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Условия",
             "eng": "terms",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "По очкам",
             "eng": "by points",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Начать",
             "eng": "begin",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Начинается",
             "eng": "he/she/it begins",
-            "category": ""
-        },
-        {
-            "rus": "Концерт",
-            "eng": "concert",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Спектакль",
             "eng": "play/performance",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "продолжить",
             "eng": "proceed",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Горное",
             "eng": "mountain",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ход",
             "eng": "move",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Переехали",
             "eng": "moved",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "завершите",
             "eng": "complete",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Лететь",
             "eng": "(to) fly",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Готов",
             "eng": "ready",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Повышение",
             "eng": "upgrade",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Войну",
             "eng": "war",
-            "category": ""
-        },
-        {
-            "rus": "Отклонить",
-            "eng": "decline",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сделку",
             "eng": "deal",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Площад",
             "eng": "square",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Золота",
             "eng": "gold",
-            "category": ""
-        },
-        {
-            "rus": "Здание",
-            "eng": "building",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Задания",
             "eng": "task",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Работат",
             "eng": "work",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Заниматься",
             "eng": "do / busy with",
-            "category": ""
-        },
-        {
-            "rus": "После",
-            "eng": "after",
-            "category": ""
-        },
-        {
-            "rus": "Первый",
-            "eng": "first",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Знакомство",
             "eng": "an aquitance",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Стакан",
             "eng": "a glass",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Стакачик",
             "eng": "a small glass",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Улицы",
             "eng": "streets (plural)",
-            "category": ""
-        },
-        {
-            "rus": "Улица",
-            "eng": "street",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Переходить",
             "eng": "lets cross",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Вечером",
             "eng": "evening",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Днём",
             "eng": "by day / afternoon",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Утром",
             "eng": "in the morning",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Поблизости",
             "eng": "nearby",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сходите",
             "eng": "go-you / go",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Повеселиться",
             "eng": "to have a good time",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Район",
             "eng": "area",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "вызвал",
             "eng": "caused",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "общественный",
             "eng": "public",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Тусовка",
             "eng": "a party",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "танец",
             "eng": "dance",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Танцевать",
             "eng": "to dance",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сегодня",
             "eng": "today (г uttlas v)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Отпуск",
             "eng": "vacation",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Допоздна",
             "eng": "until late",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Скольки",
             "eng": "open",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ближайший",
             "eng": "nearest",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Правильно",
             "eng": "correct",
-            "category": ""
-        },
-        {
-            "rus": "Жена",
-            "eng": "wife",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "сохранить",
             "eng": "save",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Coздать",
             "eng": "create",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ведомства",
             "eng": "department",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Каван",
             "eng": "boar",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "отмена",
             "eng": "cancellation",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Успокойтесь",
             "eng": "calm down",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Мобильный",
             "eng": "mobiltelefon",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Решение",
             "eng": "decision",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Пешком",
             "eng": "on foot",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Пойти",
             "eng": "to go",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Нация",
             "eng": "nation",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Идите",
             "eng": "go",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Через",
             "eng": "over",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Прямо",
             "eng": "straight",
-            "category": ""
-        },
-        {
-            "rus": "Мост",
-            "eng": "bridge",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Подруга",
             "eng": "girlfriend",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "известную",
             "eng": "know",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Знать",
             "eng": "know",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Знаю",
             "eng": "i know (я)",
-            "category": ""
-        },
-        {
-            "rus": "Знаешь",
-            "eng": "you know",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Приглашение",
             "eng": "invitation",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Желаю",
             "eng": "I wish",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Счастья",
             "eng": "happines",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Далеко",
             "eng": "far",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Близко",
             "eng": "near",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Налево",
             "eng": "left",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Направо",
             "eng": "right",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Понимаю",
             "eng": "understand",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "понять",
             "eng": "understand",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Едеть",
             "eng": "to go",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ехать",
             "eng": "to go (by transportation) (present)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Поехать",
             "eng": "go (in the future)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Наверное",
             "eng": "probably",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Церковь",
             "eng": "chuch",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Служба",
             "eng": "service",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Брюха",
             "eng": "belly",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Квест",
             "eng": "quest",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Приключение",
             "eng": "adventure",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Посл",
             "eng": "last",
-            "category": ""
-        },
-        {
-            "rus": "После",
-            "eng": "after",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Последние",
             "eng": "the last",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "этого",
             "eng": "of this",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Обед",
             "eng": "lunch",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "выйдет",
             "eng": "will come out (of this)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "призвал",
             "eng": "called on",
-            "category": ""
-        },
-        {
-            "rus": "Автобус",
-            "eng": "bus",
-            "category": ""
-        },
-        {
-            "rus": "Метро",
-            "eng": "subway",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Трамвай",
             "eng": "tram",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Поезда",
             "eng": "train",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Велосипед",
             "eng": "bicycle",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "оружия",
             "eng": "weapon",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "заявит",
             "eng": "will declare",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "выводе",
             "eng": "withdrawal",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сама",
             "eng": "itself",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Медленно",
             "eng": "slow / slowly",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Памятник",
             "eng": "monument",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Туристы",
             "eng": "tourists (plural)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Турист",
             "eng": "tourist",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Часто",
             "eng": "often",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Чешуа",
             "eng": "scales",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Рамка",
             "eng": "frame",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Какие",
             "eng": "what",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Письма",
             "eng": "letters",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Прекрасный",
             "eng": "beautiful / fine / great",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Прекрасно",
             "eng": "perfectly",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Красивые",
             "eng": "beautiful",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Идёт",
             "eng": "goes",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "предлагать",
             "eng": "propose",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "предложил",
             "eng": "proposed",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "позавчера",
             "eng": "the day before yesterday",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Солнце",
             "eng": "sun (л är stumt)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Светит",
             "eng": "shining",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Дождя",
             "eng": "rain",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ветер",
             "eng": "wind",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Устал",
             "eng": "he is tired",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Устала",
             "eng": "shes tired",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Устали",
             "eng": "they are tired",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Вы Хотите",
             "eng": "you want to",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Я хочу",
             "eng": "I want to",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ты Хочешь",
             "eng": "you want to",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Мы хотим",
             "eng": "we want to",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Курить",
             "eng": "smoke",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Молок",
             "eng": "milk",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "C Молоком",
             "eng": "milk",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Сахар",
             "eng": "sugar",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "C Сахаром",
             "eng": "with sugar",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Писать",
             "eng": "write",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Удобный",
             "eng": "comfortable",
-            "category": ""
-        },
-        {
-            "rus": "Старый",
-            "eng": "old",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Тихий",
             "eng": "quiet",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Высокие",
             "eng": "tall / high",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Соседи",
             "eng": "neighbor",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Кошка",
             "eng": "neighbor (feminin)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Чуя",
             "eng": "whose (om substantivet är feminin)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Чей",
             "eng": "whose (om substantivet är maskulint)",
-            "category": ""
-        },
-        {
-            "rus": "Жена",
-            "eng": "wife",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ребёнок",
             "eng": "child",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Дети",
             "eng": "children",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Poдилися",
             "eng": "born",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Рождения",
             "eng": "birth(day)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "День Рождения",
             "eng": "birthday (informal)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Кстати",
             "eng": "by the way",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Поздравдляю",
             "eng": "congratulations",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Медведь",
             "eng": "bear",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Много",
-            "eng": "much, many",
-            "category": ""
+            "eng": "much; many",
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Молодой",
             "eng": "young",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Человек",
             "eng": "person",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "молодой человек",
             "eng": "young man (person)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Интересная",
             "eng": "interesting (undrar)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Жизнь",
             "eng": "life",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Моих",
             "eng": "my",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Готово",
             "eng": "done",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Запястья",
             "eng": "wrist",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Броня",
             "eng": "armor",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Кольчуга",
             "eng": "mail",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "проходимец",
             "eng": "rogue",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "налетчик",
             "eng": "raider",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "кастетник",
             "eng": "brass knuckle",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "наледь",
             "eng": "ice",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "оплатите",
             "eng": "pay",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "укротить",
             "eng": "tame",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Шапка",
             "eng": "winter cap",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Шарф",
             "eng": "scarf",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Дождь",
             "eng": "rain",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Зонт",
             "eng": "umbrella",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Лекарство",
             "eng": "medicine",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Таблетки",
             "eng": "tablett",
-            "category": ""
-        },
-        {
-            "rus": "Медсестра",
-            "eng": "nurse",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Куртка",
             "eng": "jacket",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Тёплая",
             "eng": "warm",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Платье",
             "eng": "dress",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Смотри",
             "eng": "look",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Заболел",
             "eng": "got sick",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Останусь",
             "eng": "stay",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Врач",
             "eng": "doctor",
-            "category": ""
-        },
-        {
-            "rus": "Доктор",
-            "eng": "doctor",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Голова",
             "eng": "head",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Болит",
             "eng": "hurts (singular)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Бодят",
             "eng": "hurts (plural)",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Зубы",
             "eng": "teeth",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Горло",
             "eng": "throat",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Чувствуете",
             "eng": "feel",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Завтрак",
             "eng": "breakfast",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Завтракать",
             "eng": "to have breakfast",
-            "category": ""
-        },
-        {
-            "rus": "Обед",
-            "eng": "lunch",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Обедать",
             "eng": "to have lunch",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Я Обедю",
             "eng": "I have lunch",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Когда ты Обедашв",
             "eng": "when do you have lunch",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Мы обедаем",
             "eng": "we have lunch",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ужин",
             "eng": "dinner",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Ужинать",
             "eng": "to have dinner",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Мы ужинаем",
             "eng": "we have dinner",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Где вы ужинаете",
             "eng": "where do you have dinner?",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Я  ужинаю дома",
             "eng": "I have dinner at home",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Произношение",
             "eng": "Uttal",
-            "category": "pronounciation"
+            "category": [
+                "pronounciation"
+            ]
         },
         {
             "rus": "Ш",
             "eng": "cha",
-            "category": "pronounciation"
+            "category": [
+                "pronounciation"
+            ]
         },
         {
             "rus": "Щ",
             "eng": "shA",
-            "category": "pronounciation"
+            "category": [
+                "pronounciation"
+            ]
         },
         {
             "rus": "Ж",
             "eng": "che",
-            "category": "pronounciation"
+            "category": [
+                "pronounciation"
+            ]
         },
         {
             "rus": "Х",
             "eng": "sca",
-            "category": "pronounciation"
+            "category": [
+                "pronounciation"
+            ]
         },
         {
             "rus": "Ё",
             "eng": "jeu",
-            "category": "pronounciation"
+            "category": [
+                "pronounciation"
+            ]
         },
         {
             "rus": "Ц",
             "eng": "ts",
-            "category": "pronounciation"
+            "category": [
+                "pronounciation"
+            ]
         },
         {
             "rus": "Э",
             "eng": "ä",
-            "category": "pronounciation"
+            "category": [
+                "pronounciation"
+            ]
         },
         {
             "rus": "Ю",
             "eng": "(l)ju",
-            "category": "pronounciation"
+            "category": [
+                "pronounciation"
+            ]
         },
         {
             "rus": "цифры",
             "eng": "siffror",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Один",
             "eng": "1",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Два",
             "eng": "2",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Три",
             "eng": "3",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "четыре",
             "eng": "4",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Пять",
             "eng": "5",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Шесть",
             "eng": "6",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Семь",
             "eng": "7",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Восемь",
             "eng": "8",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Девять",
             "eng": "9",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Десять",
             "eng": "10",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "дцать",
             "eng": "20",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Одиннадцать",
             "eng": "11",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Двенадцать",
             "eng": "12",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Тринадцать",
             "eng": "13",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "четырндцать",
             "eng": "14",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Пятнадцать",
             "eng": "15",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Шестнадцать",
             "eng": "16",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Семнадцать",
             "eng": "17",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Восемнадцать",
             "eng": "18",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Девятнадцать",
             "eng": "19",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Двадцать",
             "eng": "20",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Двадцать один",
             "eng": "21",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Двадцать Два",
             "eng": "22",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Двадцать Три",
             "eng": "23",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Двадцать четыре",
             "eng": "24",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Двадцать Пять",
             "eng": "25",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Двадцать Шесть",
             "eng": "26",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Двадцать Семь",
             "eng": "27",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Двадцать Восемь",
             "eng": "28",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Двадцать Девять",
             "eng": "29",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Тридцать",
             "eng": "30",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Сорок",
             "eng": "40",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "-ьдесть",
-            "eng": "50,60,70,80",
-            "category": "number"
+            "eng": "50;60;70;80",
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Пятьдесть",
             "eng": "50",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Шестьдесть",
             "eng": "60",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Семвьдесть",
             "eng": "70",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Восемьдесть",
             "eng": "80",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "-носто",
             "eng": "90-99",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Девяносто",
             "eng": "90",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Сто",
             "eng": "100",
-            "category": "number"
+            "category": [
+                "number"
+            ]
         },
         {
             "rus": "Девять",
             "eng": "",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Färger",
             "eng": "цвета",
-            "category": "color"
+            "category": [
+                "color"
+            ]
         },
         {
             "rus": "Белый",
             "eng": "white",
-            "category": "color"
+            "category": [
+                "color"
+            ]
         },
         {
             "rus": "Чёрный",
             "eng": "black",
-            "category": "color"
+            "category": [
+                "color"
+            ]
         },
         {
             "rus": "Красный",
             "eng": "red",
-            "category": "color"
+            "category": [
+                "color"
+            ]
         },
         {
             "rus": "Желтый",
             "eng": "yellow",
-            "category": "color"
+            "category": [
+                "color"
+            ]
         },
         {
             "rus": "Синий",
             "eng": "blue",
-            "category": "color"
+            "category": [
+                "color"
+            ]
         },
         {
             "rus": "Голбой",
             "eng": "light blue",
-            "category": "color"
+            "category": [
+                "color"
+            ]
         },
         {
             "rus": "Dagar",
             "eng": "дней",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Понедельник",
             "eng": "monday (beginning of the week)",
-            "category": "weekdays"
+            "category": [
+                "weekdays"
+            ]
         },
         {
             "rus": "Вторник",
             "eng": "tuesday (from второй",
-            "category": "weekdays"
+            "category": [
+                "weekdays"
+            ]
         },
         {
             "rus": "Среда",
             "eng": "wednesday (middle of the week)",
-            "category": "weekdays"
+            "category": [
+                "weekdays"
+            ]
         },
         {
             "rus": "Четверг",
             "eng": "thursday (г uttalas k) - dag 4 som i siffran 4 (четыре)",
-            "category": "weekdays"
+            "category": [
+                "weekdays"
+            ]
         },
         {
             "rus": "Пятница",
             "eng": "friday",
-            "category": "weekdays"
+            "category": [
+                "weekdays"
+            ]
         },
         {
             "rus": "Суббота",
             "eng": "saturday (from hebrew sabbat)",
-            "category": "weekdays"
+            "category": [
+                "weekdays"
+            ]
         },
         {
             "rus": "Воскресень",
             "eng": "sunday (resurrection)",
-            "category": "weekdays"
+            "category": [
+                "weekdays"
+            ]
         },
         {
             "rus": "Väderriktning",
             "eng": "направление погоды",
-            "category": "cardinal"
+            "category": [
+                "cardinal"
+            ]
         },
         {
             "rus": "Восток",
             "eng": "east",
-            "category": "cardinal"
+            "category": [
+                "cardinal"
+            ]
         },
         {
             "rus": "Запад",
             "eng": "west",
-            "category": "cardinal"
+            "category": [
+                "cardinal"
+            ]
         },
         {
             "rus": "Север",
             "eng": "north",
-            "category": "cardinal"
+            "category": [
+                "cardinal"
+            ]
         },
         {
             "rus": "северо-Запад",
             "eng": "north west",
-            "category": "cardinal"
+            "category": [
+                "cardinal"
+            ]
         },
         {
             "rus": "к северо-востоку",
             "eng": "north east",
-            "category": "cardinal"
+            "category": [
+                "cardinal"
+            ]
         },
         {
             "rus": "Юр",
             "eng": "south",
-            "category": "cardinal"
+            "category": [
+                "cardinal"
+            ]
         },
         {
             "rus": "юго-запад",
             "eng": "south west",
-            "category": "cardinal"
+            "category": [
+                "cardinal"
+            ]
         },
         {
             "rus": "юго-восток",
             "eng": "south east",
-            "category": "cardinal"
+            "category": [
+                "cardinal"
+            ]
         },
         {
             "rus": "месяц",
             "eng": "months",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Май",
             "eng": "Maj",
-            "category": "months"
+            "category": [
+                "months"
+            ]
         },
         {
             "rus": "Июле",
             "eng": "Juli",
-            "category": "months"
+            "category": [
+                "months"
+            ]
         },
         {
             "rus": "Августе",
             "eng": "Augusti",
-            "category": "months"
+            "category": [
+                "months"
+            ]
         },
         {
             "rus": "Сентябрь",
             "eng": "September",
-            "category": "months"
+            "category": [
+                "months"
+            ]
         },
         {
             "rus": "Октябрь",
             "eng": "Oktober",
-            "category": "months"
+            "category": [
+                "months"
+            ]
         },
         {
             "rus": "Ноябрь",
             "eng": "November",
-            "category": "months"
+            "category": [
+                "months"
+            ]
         },
         {
             "rus": "Декабрь",
             "eng": "December",
-            "category": "months"
+            "category": [
+                "months"
+            ]
         },
         {
             "rus": "Årstider",
             "eng": "времена года",
-            "category": ""
+            "category": [
+                ""
+            ]
         },
         {
             "rus": "Летом",
             "eng": "summer",
-            "category": "seasons"
+            "category": [
+                "seasons"
+            ]
         },
         {
             "rus": "Зимa",
             "eng": "winter",
-            "category": "seasons"
+            "category": [
+                "seasons"
+            ]
         },
         {
             "rus": "Месяц",
             "eng": "month",
-            "category": "seasons"
+            "category": [
+                "seasons"
+            ]
+        },
+        {
+            "rus": "и",
+            "eng": "and; though",
+            "category": [
+                "conjunction",
+                "1000"
+            ]
+        },
+        {
+            "rus": "в",
+            "eng": "in; at",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "не",
+            "eng": "not",
+            "category": [
+                "particle",
+                "1000"
+            ]
+        },
+        {
+            "rus": "он",
+            "eng": "he",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "на",
+            "eng": "on; it; at; to",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "я",
+            "eng": "I",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "что",
+            "eng": "what; that; why",
+            "category": [
+                "сonjunction",
+                " pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "тот",
+            "eng": "that",
+            "category": [
+                "adjective",
+                " pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "быть",
+            "eng": "to be",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "с",
+            "eng": "with; and; from; of",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "а",
+            "eng": "while; and; but",
+            "category": [
+                "conjunction",
+                "1000"
+            ]
+        },
+        {
+            "rus": "весь",
+            "eng": "all; everything",
+            "category": [
+                "pron",
+                " noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "это",
+            "eng": "that; this; it",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "как",
+            "eng": "how; what; as; like",
+            "category": [
+                "adverb",
+                " conj",
+                "1000"
+            ]
+        },
+        {
+            "rus": "она",
+            "eng": "she",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "по",
+            "eng": "on; along; by",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "но",
+            "eng": "but",
+            "category": [
+                "conjunction",
+                " noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "они",
+            "eng": "they",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "к",
+            "eng": "to; for; by",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "у",
+            "eng": "by; with; of",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ты",
+            "eng": "you; thou",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "из",
+            "eng": "from; of; in",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "мы",
+            "eng": "we",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "за",
+            "eng": "behind; over; at; after",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вы",
+            "eng": "you",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "так",
+            "eng": "so; thus; then",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "же",
+            "eng": "and; as for; but; same",
+            "category": [
+                "conj",
+                " particle",
+                "1000"
+            ]
+        },
+        {
+            "rus": "от",
+            "eng": "from; of; for",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сказать",
+            "eng": "to say; to speak",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "этот",
+            "eng": "this",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "который",
+            "eng": "which; who; that",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "мочь",
+            "eng": "be able",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "человек",
+            "eng": "man; person",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "о",
+            "eng": "of; about; against",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "один",
+            "eng": "one; some; alone",
+            "category": [
+                "cardinal number",
+                " pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ещё",
+            "eng": "still; yet",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "бы",
+            "eng": "would",
+            "category": [
+                "particle",
+                "1000"
+            ]
+        },
+        {
+            "rus": "такой",
+            "eng": "such; so; some",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "только",
+            "eng": "only; merely; but",
+            "category": [
+                "adverb",
+                " conj",
+                "1000"
+            ]
+        },
+        {
+            "rus": "себя",
+            "eng": "myself; himself; herself",
+            "category": [
+                "pron",
+                " particle",
+                "1000"
+            ]
+        },
+        {
+            "rus": "своё",
+            "eng": "one's own; my; our",
+            "category": [
+                "pronoun",
+                " noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "какой",
+            "eng": "what; which; how",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "когда",
+            "eng": "when; while; as",
+            "category": [
+                "adverb",
+                " conj",
+                "1000"
+            ]
+        },
+        {
+            "rus": "уже",
+            "eng": "already; by now",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "для",
+            "eng": "for; to",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вот",
+            "eng": "here; there; this is; that's",
+            "category": [
+                "particle",
+                "1000"
+            ]
+        },
+        {
+            "rus": "кто",
+            "eng": "who; that; some",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "да",
+            "eng": "yes; but",
+            "category": [
+                "conj",
+                " particle",
+                "1000"
+            ]
+        },
+        {
+            "rus": "говорить",
+            "eng": "to say; to tell; to speak",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "год",
+            "eng": "year",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "знать",
+            "eng": "to know; be aware",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "мой",
+            "eng": "my; mine",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "до",
+            "eng": "to; up to; about; before",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "или",
+            "eng": "or",
+            "category": [
+                "conjunction",
+                "1000"
+            ]
+        },
+        {
+            "rus": "если",
+            "eng": "if",
+            "category": [
+                "conjunction",
+                "1000"
+            ]
+        },
+        {
+            "rus": "время",
+            "eng": "time; season",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "рука",
+            "eng": "hand; arm",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "нет",
+            "eng": "no; not; but",
+            "category": [
+                "negation",
+                "1000"
+            ]
+        },
+        {
+            "rus": "самый",
+            "eng": "most; the very; the same",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ни",
+            "eng": "not a; not; neither… nor",
+            "category": [
+                "conj",
+                " particle",
+                "1000"
+            ]
+        },
+        {
+            "rus": "стать",
+            "eng": "to become; begin; come",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "большой",
+            "eng": "big; large; important",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "даже",
+            "eng": "even",
+            "category": [
+                "particle",
+                "1000"
+            ]
+        },
+        {
+            "rus": "другой",
+            "eng": "other; another; different",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "наш",
+            "eng": "our; ours",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "свой",
+            "eng": "my; our; your",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ну",
+            "eng": "now; right; well; come on",
+            "category": [
+                "interj",
+                " particle",
+                "1000"
+            ]
+        },
+        {
+            "rus": "под",
+            "eng": "under; for; towards; to",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "где",
+            "eng": "where",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "дело",
+            "eng": "business; affair; matter",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "есть",
+            "eng": "to eat; to be",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сам",
+            "eng": "myself; yourself",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "раз",
+            "eng": "time; once; since",
+            "category": [
+                "noun",
+                " adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "чтобы",
+            "eng": "that; in order that",
+            "category": [
+                "conjunction",
+                " particle",
+                "1000"
+            ]
+        },
+        {
+            "rus": "два",
+            "eng": "two",
+            "category": [
+                "cardinal number",
+                "1000"
+            ]
+        },
+        {
+            "rus": "там",
+            "eng": "there; then",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "чем",
+            "eng": "than; instead of",
+            "category": [
+                "conjunction",
+                " particle",
+                "1000"
+            ]
+        },
+        {
+            "rus": "глаз",
+            "eng": "eye; sight",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "жизнь",
+            "eng": "life",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "первый",
+            "eng": "first; front; former",
+            "category": [
+                "adjective",
+                " number",
+                "1000"
+            ]
+        },
+        {
+            "rus": "день",
+            "eng": "day",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "тут",
+            "eng": "here; now; then",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "во",
+            "eng": "in; at; super; exactly",
+            "category": [
+                "preposition",
+                " particle",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ничто",
+            "eng": "nothing",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "потом",
+            "eng": "afterwards; then",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "очень",
+            "eng": "very",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "со",
+            "eng": "with",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "хотеть",
+            "eng": "to want; like",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ли",
+            "eng": "whether; if",
+            "category": [
+                "conj",
+                " particle",
+                "1000"
+            ]
+        },
+        {
+            "rus": "при",
+            "eng": "attached to; in the presence of; by; about",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "голова",
+            "eng": "head; mind; brains",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "надо",
+            "eng": "over; above; ought to",
+            "category": [
+                "prep",
+                " verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "без",
+            "eng": "without",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "видеть",
+            "eng": "to see",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "идти",
+            "eng": "to go; come",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "теперь",
+            "eng": "now; nowadays",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "тоже",
+            "eng": "also; as well; too",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "стоять",
+            "eng": "to stand; be; stand up",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "друг",
+            "eng": "friend",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "дом",
+            "eng": "house; home",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сейчас",
+            "eng": "now; presently; soon",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "можно",
+            "eng": "one can",
+            "category": [
+                "predicate",
+                "1000"
+            ]
+        },
+        {
+            "rus": "после",
+            "eng": "after; afterwards",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "слово",
+            "eng": "word",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "здесь",
+            "eng": "here",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "думать",
+            "eng": "to think; believe",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "место",
+            "eng": "place; seat",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "спросить",
+            "eng": "to ask",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "через",
+            "eng": "through; across",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "лицо",
+            "eng": "face; person",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "что",
+            "eng": "what; which; that",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "тогда",
+            "eng": "then",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ведь",
+            "eng": "you see; you know",
+            "category": [
+                "conj",
+                "1000"
+            ]
+        },
+        {
+            "rus": "хороший",
+            "eng": "good; nice ",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "каждый",
+            "eng": "each; every",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "новый",
+            "eng": "new; modern",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "жить",
+            "eng": "to live",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "должный",
+            "eng": "due; proper",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "смотреть",
+            "eng": "to look; watch",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "почему",
+            "eng": "why",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "потому",
+            "eng": "that's why",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сторона",
+            "eng": "side; party",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "просто",
+            "eng": "simply",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "нога",
+            "eng": "foot; leg",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сидеть",
+            "eng": "to sit",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "понять",
+            "eng": "to understand; realize",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "иметь",
+            "eng": "to have; own",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "конечный",
+            "eng": "final; last",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "делать",
+            "eng": "to do; make",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вдруг",
+            "eng": "suddenly",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "над",
+            "eng": "above; over",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "взять",
+            "eng": "to take",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "никто",
+            "eng": "nobody",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сделать",
+            "eng": "to do; make; finish",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "дверь",
+            "eng": "door",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "перед",
+            "eng": "before; in front of",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "нужный",
+            "eng": "necessary",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "понимать",
+            "eng": "to understand",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "казаться",
+            "eng": "to seem; appear",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "работа",
+            "eng": "work; job",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "три",
+            "eng": "three",
+            "category": [
+                "cardinal number",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ваш",
+            "eng": "yours",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "уж",
+            "eng": "really; already",
+            "category": [
+                "adverb",
+                " particle",
+                "1000"
+            ]
+        },
+        {
+            "rus": "земля",
+            "eng": "earth; land; soil",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "конец",
+            "eng": "end; distance",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "несколько",
+            "eng": "several; some",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "час",
+            "eng": "hour; time",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "голос",
+            "eng": "voice",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "город",
+            "eng": "town; city",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "последний",
+            "eng": "last; the latest; new",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "пока",
+            "eng": "for the present",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "хорошо",
+            "eng": "well ",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "давать",
+            "eng": "to give; let; allow",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вода",
+            "eng": "water",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "более",
+            "eng": "more",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "хотя",
+            "eng": "although",
+            "category": [
+                "conjunction",
+                "1000"
+            ]
+        },
+        {
+            "rus": "всегда",
+            "eng": "always",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "второй",
+            "eng": "second",
+            "category": [
+                "ordinal number",
+                "1000"
+            ]
+        },
+        {
+            "rus": "куда",
+            "eng": "where; what for; much",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "пойти",
+            "eng": "to go",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "стол",
+            "eng": "table; desk; board",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ребёнок",
+            "eng": "child; kid; infant",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "увидеть",
+            "eng": "to see",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сила",
+            "eng": "strength; force",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "отец",
+            "eng": "father ",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "женщина",
+            "eng": "woman",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "машина",
+            "eng": "car; machine; engine",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "случай",
+            "eng": "case; occasion; incident",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ночь",
+            "eng": "night",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сразу",
+            "eng": "at once; right away; just",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "мир",
+            "eng": "world; peace",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "совсем",
+            "eng": "quite; entirely; totally",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "остаться",
+            "eng": "to remain; stay ",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "об",
+            "eng": "about; of ",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вид",
+            "eng": "appearance; look; view",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "выйти",
+            "eng": "to go out; come out; appear",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "дать",
+            "eng": "to give",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "работать",
+            "eng": "to work",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "любить",
+            "eng": "to love",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "старый",
+            "eng": "old",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "почти",
+            "eng": "almost",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ряд",
+            "eng": "row; line",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "оказаться",
+            "eng": "find oneself; turn out",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "начало",
+            "eng": "beginning; origin; source",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "твой",
+            "eng": "your; yours (informal)",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вопрос",
+            "eng": "question; matter; problem",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "много",
+            "eng": "many; much ",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "война",
+            "eng": "war",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "снова",
+            "eng": "again",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ответить",
+            "eng": "to answer; reply ",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "между",
+            "eng": "between; among",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "подумать",
+            "eng": "to think",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "опять",
+            "eng": "again",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "белый",
+            "eng": "white",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "деньги",
+            "eng": "money",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "значить",
+            "eng": "to mean; signify",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "про",
+            "eng": "about; for",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "лишь",
+            "eng": "only; as soon as",
+            "category": [
+                "adverb",
+                " conj",
+                "1000"
+            ]
+        },
+        {
+            "rus": "минута",
+            "eng": "minute; moment",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "жена",
+            "eng": "wife",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "посмотреть",
+            "eng": "to take a look; watch; inspect",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "правда",
+            "eng": "truth",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "главный",
+            "eng": "main; chief",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "страна",
+            "eng": "country",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "свет",
+            "eng": "light;world",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ждать",
+            "eng": "to wait",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "мать",
+            "eng": "mother",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "будто",
+            "eng": "as if; as though",
+            "category": [
+                "conjunction",
+                "1000"
+            ]
+        },
+        {
+            "rus": "никогда",
+            "eng": "never",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "товарищ",
+            "eng": "comrade; friend",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "дорога",
+            "eng": "road; way; journey",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "однако",
+            "eng": "however; though",
+            "category": [
+                "conj",
+                " misc",
+                "1000"
+            ]
+        },
+        {
+            "rus": "лежать",
+            "eng": "to lie; be situated",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "именно",
+            "eng": "namely; just",
+            "category": [
+                "misc",
+                "1000"
+            ]
+        },
+        {
+            "rus": "окно",
+            "eng": "window; windowsill",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "никакой",
+            "eng": "no; none",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "найти",
+            "eng": "to find; discover; consider",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "писать",
+            "eng": "to write",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "комната",
+            "eng": "a room",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "Москва",
+            "eng": "Moscow",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "часть",
+            "eng": "part; share; department",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вообще",
+            "eng": "in general; altogether; on the whole",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "книга",
+            "eng": "a book",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "маленький",
+            "eng": "small; little",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "улица",
+            "eng": "street",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "решить",
+            "eng": "to decide; solve",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "далекий",
+            "eng": "distant; remote",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "душа",
+            "eng": "soul; spirit",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "чуть",
+            "eng": "hardly; slightly",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вернуться",
+            "eng": "to return",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "утро",
+            "eng": "morning",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "некоторый",
+            "eng": "some",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "считать",
+            "eng": "to count; consider",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сколько",
+            "eng": "how much; how many",
+            "category": [
+                "cardinal",
+                "1000"
+            ]
+        },
+        {
+            "rus": "помнить",
+            "eng": "to remember",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вечер",
+            "eng": "evening",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "пол",
+            "eng": "floor; sex",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "таки",
+            "eng": "after all",
+            "category": [
+                "particle",
+                "1000"
+            ]
+        },
+        {
+            "rus": "получить",
+            "eng": "to receive; get; obtain",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "народ",
+            "eng": "people; nation",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "плечо",
+            "eng": "shoulder; upper arm",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "хоть",
+            "eng": "even; if you want; though",
+            "category": [
+                "conjunction",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сегодня",
+            "eng": "today",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "бог",
+            "eng": "god",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вместе",
+            "eng": "together",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "взгляд",
+            "eng": "look; glance; view",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ходить",
+            "eng": "to go; walk",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "зачем",
+            "eng": "what for; why",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "советский",
+            "eng": "Soviet",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "русский",
+            "eng": "Russian",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "бывать",
+            "eng": "be; visit; happen",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "полный",
+            "eng": "full; complete",
+            "category": [
+                "adj",
+                "1000"
+            ]
+        },
+        {
+            "rus": "прийти",
+            "eng": "to come; arrive ",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "палец",
+            "eng": "finger; toe",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "Россия",
+            "eng": "Russia",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "любой",
+            "eng": "any; every",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "история",
+            "eng": "history; story; event",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "наконец",
+            "eng": "at last; finally",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "мысль",
+            "eng": "thought; idea",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "узнать",
+            "eng": "to know; learn; recognize",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "назад",
+            "eng": "back; backwards",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "общий",
+            "eng": "general; common",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "заметить",
+            "eng": "to notice; observe",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "словно",
+            "eng": "as if; like",
+            "category": [
+                "conjunction",
+                "1000"
+            ]
+        },
+        {
+            "rus": "прошлый",
+            "eng": "past",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "уйти",
+            "eng": "to leave; go away",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "известный",
+            "eng": "well-known; famous",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "давно",
+            "eng": "long ago",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "слышать",
+            "eng": "to hear",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "слушать",
+            "eng": "to listen; hear",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "бояться",
+            "eng": "to be afraid; fear",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сын",
+            "eng": "son",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "нельзя",
+            "eng": "it is impossible; can't",
+            "category": [
+                "predicate",
+                "1000"
+            ]
+        },
+        {
+            "rus": "прямо",
+            "eng": "straight; frankly",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "долго",
+            "eng": "for a long time",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "быстро",
+            "eng": "fast; quickly",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "лес",
+            "eng": "forest",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "похожий",
+            "eng": "similar; alike",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "пора",
+            "eng": "time; pore ",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "пять",
+            "eng": "five",
+            "category": [
+                "cardinal number",
+                "1000"
+            ]
+        },
+        {
+            "rus": "глядеть",
+            "eng": "to look; gaze",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "оно",
+            "eng": "it",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сесть",
+            "eng": "to sit",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "имя",
+            "eng": "name",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ж",
+            "eng": "and; as for; but ",
+            "category": [
+                "misc",
+                "1000"
+            ]
+        },
+        {
+            "rus": "разговор",
+            "eng": "talk; conversation",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "тело",
+            "eng": "body",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "молодой",
+            "eng": "young ",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "стена",
+            "eng": "wall",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "красный",
+            "eng": "red",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "читать",
+            "eng": "to read",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "право",
+            "eng": "right",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "старик",
+            "eng": "old man",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ранний",
+            "eng": "early",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "хотеться",
+            "eng": "want; like",
+            "category": [
+                "misc (impersonal)",
+                "1000"
+            ]
+        },
+        {
+            "rus": "мама",
+            "eng": "mummy; mum",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "оставаться",
+            "eng": "to remain; stay ",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "высокий",
+            "eng": "tall; high",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "путь",
+            "eng": "way; track; path",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "поэтому",
+            "eng": "therefore",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "совершенно",
+            "eng": "absolutely; quite",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "кроме",
+            "eng": "except; besides",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "тысяча",
+            "eng": "a thousand",
+            "category": [
+                "cardinal number",
+                "1000"
+            ]
+        },
+        {
+            "rus": "месяц",
+            "eng": "month",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "брать",
+            "eng": "to take; hire",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "написать",
+            "eng": "to write",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "целый",
+            "eng": "intact; whole; entire",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "огромный",
+            "eng": "huge; enormous",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "начинать",
+            "eng": "to begin ",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "спина",
+            "eng": "back",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "настоящий",
+            "eng": "present;real; true",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "пусть",
+            "eng": "let's; though",
+            "category": [
+                "conj",
+                " particle",
+                "1000"
+            ]
+        },
+        {
+            "rus": "язык",
+            "eng": "tongue; language",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "точно",
+            "eng": "exactly",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "среди",
+            "eng": "among",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "чувствовать",
+            "eng": "to feel",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сердце",
+            "eng": "heart",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вести",
+            "eng": "to lead",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "иногда",
+            "eng": "sometimes",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "мальчик",
+            "eng": "boy",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "успеть",
+            "eng": "to be in time; be successful",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "небо",
+            "eng": "sky",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "живой",
+            "eng": "living; live; lively",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "смерть",
+            "eng": "death",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "продолжать",
+            "eng": "to continue",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "девушка",
+            "eng": "girl; miss ",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "образ",
+            "eng": "shape; form; image",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ко",
+            "eng": "to; towards; by ",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "забыть",
+            "eng": "to forget",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вокруг",
+            "eng": "around",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "письмо",
+            "eng": "letter",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "власть",
+            "eng": "power",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "чёрный",
+            "eng": "black ",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "пройти",
+            "eng": "to pass; go by; be over ",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "появиться",
+            "eng": "to appear; show up ",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "воздух",
+            "eng": "air",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "разный",
+            "eng": "different",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "выходить",
+            "eng": "to go out; nurse ",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "просить",
+            "eng": "to ask",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "брат",
+            "eng": "brother",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "собственный",
+            "eng": "one's own",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "отношение",
+            "eng": "relationship; attitude",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "затем",
+            "eng": "then; after that",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "пытаться",
+            "eng": "to try",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "показать",
+            "eng": "to show; display",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вспомнить",
+            "eng": "to remember; recall",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "система",
+            "eng": "system",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "четыре",
+            "eng": "four",
+            "category": [
+                "cardinal number",
+                "1000"
+            ]
+        },
+        {
+            "rus": "квартира",
+            "eng": "flat; apartment",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "держать",
+            "eng": "to hold; keep",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "также",
+            "eng": "also; as well; too",
+            "category": [
+                "misc",
+                "1000"
+            ]
+        },
+        {
+            "rus": "любовь",
+            "eng": "love",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "солдат",
+            "eng": "soldier",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "откуда",
+            "eng": "where… from",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "чтоб",
+            "eng": "that; in order that;",
+            "category": [
+                "misc",
+                "1000"
+            ]
+        },
+        {
+            "rus": "называть",
+            "eng": "to call; name;",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "третий",
+            "eng": "third",
+            "category": [
+                "ordinal number",
+                "1000"
+            ]
+        },
+        {
+            "rus": "хозяин",
+            "eng": "master; boss; host",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вроде",
+            "eng": "like; not unlike",
+            "category": [
+                "preposition",
+                " particle",
+                "1000"
+            ]
+        },
+        {
+            "rus": "уходить",
+            "eng": "to leave; go away",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "подойти",
+            "eng": "to approach; come up",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "поднять",
+            "eng": "to lift; raise",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "особенно",
+            "eng": "especially; particularly",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "спрашивать",
+            "eng": "to ask; inquire",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "начальник",
+            "eng": "chief; head; superior",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "оба",
+            "eng": "both",
+            "category": [
+                "numeral",
+                "1000"
+            ]
+        },
+        {
+            "rus": "бросить",
+            "eng": "to throw",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "школа",
+            "eng": "school",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "парень",
+            "eng": "boy; fellow; guy",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "кровь",
+            "eng": "blood",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "двадцать",
+            "eng": "twenty",
+            "category": [
+                "cardinal numberinal number",
+                "1000"
+            ]
+        },
+        {
+            "rus": "солнце",
+            "eng": "sun",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "неделя",
+            "eng": "week",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "послать",
+            "eng": "to send; dispatch",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "находиться",
+            "eng": "to be found; turn up",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ребята",
+            "eng": "guys; children",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "поставить",
+            "eng": "to put; place; set",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "встать",
+            "eng": "to get up; rise; stand up",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "например",
+            "eng": "for example; for instance",
+            "category": [
+                "misc",
+                "1000"
+            ]
+        },
+        {
+            "rus": "шаг",
+            "eng": "step",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "мужчина",
+            "eng": "man; male",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "равно",
+            "eng": "alike; in like manner",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "нос",
+            "eng": "nose",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "мало",
+            "eng": "little; few;",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "внимание",
+            "eng": "attention",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "капитан",
+            "eng": "captain; master",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ухо",
+            "eng": "ear",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "туда",
+            "eng": "there",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сюда",
+            "eng": "here",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "играть",
+            "eng": "to play",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "следовать",
+            "eng": "to follow; come next",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "рассказать",
+            "eng": "to tell; narrate",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "великий",
+            "eng": "great",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "действительно",
+            "eng": "indeed; really",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "слишком",
+            "eng": "too; too much",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "тяжёлый",
+            "eng": "heavy",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "спать",
+            "eng": "to sleep",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "оставить",
+            "eng": "to leave; abandon",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "войти",
+            "eng": "to enter; come in",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "длинный",
+            "eng": "long",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "чувство",
+            "eng": "feeling",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "молчать",
+            "eng": "to keep silence",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "рассказывать",
+            "eng": "to tell; narrate",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "отвечать",
+            "eng": "to answer; reply",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "становиться",
+            "eng": "to stand; to become",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "остановиться",
+            "eng": "to stop",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "берег",
+            "eng": "bank; shore; coast",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "семья",
+            "eng": "family",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "искать",
+            "eng": "to search",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "генерал",
+            "eng": "general",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "момент",
+            "eng": "moment; instant",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "десять",
+            "eng": "ten",
+            "category": [
+                "cardinal number",
+                "1000"
+            ]
+        },
+        {
+            "rus": "начать",
+            "eng": "to begin",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "следующий",
+            "eng": "next; following",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "личный",
+            "eng": "personal",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "труд",
+            "eng": "labour; work",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "верить",
+            "eng": "to believe",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "группа",
+            "eng": "group",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "немного",
+            "eng": "a little",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "впрочем",
+            "eng": "however; though",
+            "category": [
+                "conjunction",
+                "1000"
+            ]
+        },
+        {
+            "rus": "видно",
+            "eng": "evidently; obviously",
+            "category": [
+                "misc",
+                "1000"
+            ]
+        },
+        {
+            "rus": "являться",
+            "eng": "to appear",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "муж",
+            "eng": "husband",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "разве",
+            "eng": "really?; perhaps",
+            "category": [
+                "particle",
+                "1000"
+            ]
+        },
+        {
+            "rus": "движение",
+            "eng": "movement",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "порядок",
+            "eng": "order",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ответ",
+            "eng": "answer; reply",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "тихо",
+            "eng": "quietly; softly; slowly",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "знакомый",
+            "eng": "familiar; acquainted",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "газета",
+            "eng": "newspaper",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "помощь",
+            "eng": "help",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сильный",
+            "eng": "strong; powerful",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "скорый",
+            "eng": "quick; fast",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "собака",
+            "eng": "dog",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "дерево",
+            "eng": "tree",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "снег",
+            "eng": "snow",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сон",
+            "eng": "dream",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "смысл",
+            "eng": "sense; meaning; purpose",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "смочь",
+            "eng": "to be able",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "против",
+            "eng": "against; opposite; contrary to",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "бежать",
+            "eng": "to run; hurry",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "двор",
+            "eng": "yard; court",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "форма",
+            "eng": "form; shape; uniform",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "простой",
+            "eng": "simple; easy; plain",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "приехать",
+            "eng": "to arrive; come",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "иной",
+            "eng": "different; other",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "кричать",
+            "eng": "to cry; shout",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "возможность",
+            "eng": "possibility; opportunity; chance",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "общество",
+            "eng": "society",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "зеленый",
+            "eng": "green",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "грудь",
+            "eng": "breast; chest",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "угол",
+            "eng": "corner; angle",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "открыть",
+            "eng": "to open",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "происходить",
+            "eng": "to happen; occur; take place",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ладно",
+            "eng": "in harmony; well; all right",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "черный",
+            "eng": "black (as in \"she wears black\")",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "век",
+            "eng": "century; age",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "карман",
+            "eng": "pocket",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ехать",
+            "eng": "to go; ride; drive; travel",
+            "category": [
+                "verb of motion",
+                "1000"
+            ]
+        },
+        {
+            "rus": "немец",
+            "eng": "German",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "наверное",
+            "eng": "probably; most likely",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "губа",
+            "eng": "lip",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "дядя",
+            "eng": "uncle",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "приходить",
+            "eng": "to come; arrive",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "часто",
+            "eng": "often",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "домой",
+            "eng": "home(as in \"she came home\")",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "огонь",
+            "eng": "fire",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "писатель",
+            "eng": "writer",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "армия",
+            "eng": "army",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "состояние",
+            "eng": "state; condition; fortune",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "зуб",
+            "eng": "tooth",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "очередь",
+            "eng": "line; queue; turn",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "кой",
+            "eng": "which (old-fashioned; literary); mostly found in set expressions: ни в ко́ем слу́чае; ни ко́им о́бразом; в кои ве́ки; на кой чёрт?",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "подняться",
+            "eng": "to rise; climb",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "камень",
+            "eng": "stone",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "гость",
+            "eng": "guest",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "показаться",
+            "eng": "to appear; come in sight",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ветер",
+            "eng": "wind",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "собираться",
+            "eng": "to gather together; assemble; intend",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "попасть",
+            "eng": "to hit; to find oneself",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "принять",
+            "eng": "to take; admit; accept",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сначала",
+            "eng": "at first; from the beginning",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "либо",
+            "eng": "or",
+            "category": [
+                "conjunction",
+                "1000"
+            ]
+        },
+        {
+            "rus": "поехать",
+            "eng": "to depart; set off",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "услышать",
+            "eng": "to hear",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "уметь",
+            "eng": "to be able; know; can",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "случиться",
+            "eng": "to happen",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "странный",
+            "eng": "strange",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "единственный",
+            "eng": "only; sole",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "рота",
+            "eng": "company (military)",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "закон",
+            "eng": "law; act; statue",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "короткий",
+            "eng": "short",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "море",
+            "eng": "sea",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "добрый",
+            "eng": "kind",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "темный",
+            "eng": "dark",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "гора",
+            "eng": "mountain; hill",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "врач",
+            "eng": "physician; doctor",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "край",
+            "eng": "border; edge; land; country",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "стараться",
+            "eng": "to try; endeavour",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "лучший",
+            "eng": "better; best",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "река",
+            "eng": "river",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "военный",
+            "eng": "military",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "мера",
+            "eng": "measure; step",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "страшный",
+            "eng": "terrible; frightful",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вполне",
+            "eng": "quite; fully",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "звать",
+            "eng": "to call",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "произойти",
+            "eng": "to happen; occur; take place",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вперед",
+            "eng": "forward",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "медленно",
+            "eng": "slowly",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "возле",
+            "eng": "by; near; close by",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "никак",
+            "eng": "in now way; by no means",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "заниматься",
+            "eng": "to be occupied; engage",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "действие",
+            "eng": "action; effect",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "довольно",
+            "eng": "enough; rather",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вещь",
+            "eng": "thing",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "необходимый",
+            "eng": "necessary",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ход",
+            "eng": "move",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "боль",
+            "eng": "pain",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "судьба",
+            "eng": "fate; fortune; destiny",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "причина",
+            "eng": "cause; reason; motive",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "положить",
+            "eng": "to lay down; put down; place",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "едва",
+            "eng": "hardly; just; barely",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "черта",
+            "eng": "line; boundary; trait",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "девочка",
+            "eng": "girl; little girl",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "лёгкий",
+            "eng": "light; easy",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "волос",
+            "eng": "hair",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "купить",
+            "eng": "to buy; purchase",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "номер",
+            "eng": "number; size; room; issue",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "основной",
+            "eng": "main",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "широкий",
+            "eng": "wide",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "умереть",
+            "eng": "to die",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "далеко",
+            "eng": "far; far off",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "плохо",
+            "eng": "badly",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "глава",
+            "eng": "head; chief",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "красивый",
+            "eng": "beautiful",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "серый",
+            "eng": "grey; dull",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "пить",
+            "eng": "to drink",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "командир",
+            "eng": "commander; commanding officer",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "обычно",
+            "eng": "usually",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "партия",
+            "eng": "party",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "проблема",
+            "eng": "problem; issue",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "страх",
+            "eng": "fear",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "проходить",
+            "eng": "to pass; go;study",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ясно",
+            "eng": "clear; clearly",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "снять",
+            "eng": "to take away; take off;photograph",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "бумага",
+            "eng": "paper",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "герой",
+            "eng": "hero",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "пара",
+            "eng": "pair; couple",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "государство",
+            "eng": "State",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "деревня",
+            "eng": "village; country",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "речь",
+            "eng": "speech",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "начаться",
+            "eng": "to begin",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "средство",
+            "eng": "means; remedy",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "положение",
+            "eng": "position; posture; condition; state",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "связь",
+            "eng": "tie; bond; connection; relation",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "скоро",
+            "eng": "quickly; fast; soon",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "небольшой",
+            "eng": "small; not great",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "представлять",
+            "eng": "to present; introduce; imagine",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "завтра",
+            "eng": "tomorrow",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "объяснить",
+            "eng": "to explain",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "пустой",
+            "eng": "empty; hollow; idle",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "произнести",
+            "eng": "to pronounce; say; utter",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "человеческий",
+            "eng": "human",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "нравиться",
+            "eng": "to please; like",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "однажды",
+            "eng": "once; one day",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "мимо",
+            "eng": "past; by",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "иначе",
+            "eng": "otherwise; differentlyl",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "существовать",
+            "eng": "to exist; to be",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "класс",
+            "eng": "class",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "удаться",
+            "eng": "turn out well; succeed; manage",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "толстый",
+            "eng": "thick; heavy; fat",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "цель",
+            "eng": "goal; object; target",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сквозь",
+            "eng": "through",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "прийтись",
+            "eng": "to fit; fall; have to",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "чистый",
+            "eng": "clean; pure",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "знать",
+            "eng": "to know",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "прежний",
+            "eng": "former",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "профессор",
+            "eng": "professor",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "господин",
+            "eng": "gentleman; Mr.",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "счастье",
+            "eng": "happiness; luck",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "худой",
+            "eng": "thin; skinny; masterrussian.com",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "дух",
+            "eng": "spirit",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "план",
+            "eng": "plan",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "чужой",
+            "eng": "somebody else's;strange; foreign",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "зал",
+            "eng": "hall",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "представить",
+            "eng": "to presetn; produce; introduce",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "особый",
+            "eng": "special",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "директор",
+            "eng": "director; manager",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "бывший",
+            "eng": "former; ex-",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "память",
+            "eng": "memory",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "близкий",
+            "eng": "near; similar; intimate",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сей",
+            "eng": "this",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "результат",
+            "eng": "result; outcome",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "больной",
+            "eng": "sick",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "данный",
+            "eng": "given; present",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "кстати",
+            "eng": "to the point; at the same time",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "назвать",
+            "eng": "to call; name",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "след",
+            "eng": "track; footprint",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "улыбаться",
+            "eng": "to smile",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "бутылка",
+            "eng": "bottle",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "трудно",
+            "eng": "with difficulty",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "условие",
+            "eng": "condition; term",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "прежде",
+            "eng": "before",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ум",
+            "eng": "mind; brains; intellect",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "улыбнуться",
+            "eng": "to smile",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "процесс",
+            "eng": "process",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "картина",
+            "eng": "picture; painting",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вместо",
+            "eng": "instead",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "старший",
+            "eng": "elder; senior",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "легко",
+            "eng": "easily; lightly",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "центр",
+            "eng": "center",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "подобный",
+            "eng": "similar; like",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "возможно",
+            "eng": "as… as possible(as in \"as soon as possible\")",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "около",
+            "eng": "by; near",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "смеяться",
+            "eng": "to laugh",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сто",
+            "eng": "hundred",
+            "category": [
+                "cardinal numberinal number",
+                "1000"
+            ]
+        },
+        {
+            "rus": "будущее",
+            "eng": "future",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "хватать",
+            "eng": "to snatch; seize; be sufficient",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "число",
+            "eng": "number",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "всякое",
+            "eng": "any; every",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "рубль",
+            "eng": "ruble",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "почувствовать",
+            "eng": "to feel",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "принести",
+            "eng": "to bring; masterrussian",
+            "category": [
+                "verb",
+                " 1000",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вера",
+            "eng": "faith; belief",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вовсе",
+            "eng": "quiet; not … at all",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "удар",
+            "eng": "blow; stroke",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "телефон",
+            "eng": "telephone",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "колено",
+            "eng": "knee",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "согласиться",
+            "eng": "to agree; consent",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "мало",
+            "eng": "little; few; not enough",
+            "category": [
+                "cardinal numberinal number",
+                "1000"
+            ]
+        },
+        {
+            "rus": "коридор",
+            "eng": "corridor; passage",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "мужик",
+            "eng": "muzhik; man",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "правый",
+            "eng": "right",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "автор",
+            "eng": "author",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "холодный",
+            "eng": "cold; cool",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "хватить",
+            "eng": "to snatch; seize; suffice",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "многие",
+            "eng": "many",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "встреча",
+            "eng": "meeting; reception",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "кабинет",
+            "eng": "study; room; office suite",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "документ",
+            "eng": "document",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "самолет",
+            "eng": "aircraft; aeroplane",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вниз",
+            "eng": "down; downwards",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "принимать",
+            "eng": "to take; admit; accept",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "игра",
+            "eng": "game; play",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "рассказ",
+            "eng": "story",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "хлеб",
+            "eng": "bread",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "развитие",
+            "eng": "development",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "убить",
+            "eng": "to kill",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "родной",
+            "eng": "own; native; dear",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "открытый",
+            "eng": "open",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "менее",
+            "eng": "less",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "предложить",
+            "eng": "to offer; propose; suggest",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "желтый",
+            "eng": "yellow",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "приходиться",
+            "eng": "to fit; fall; have to",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "выпить",
+            "eng": "to drink",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "крикнуть",
+            "eng": "to cry; shout",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "трубка",
+            "eng": "tube; roll; pipe",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "враг",
+            "eng": "enemy",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "показывать",
+            "eng": "to show; display",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "двое",
+            "eng": "two",
+            "category": [
+                "cardinal number",
+                "1000"
+            ]
+        },
+        {
+            "rus": "доктор",
+            "eng": "doctor",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ладонь",
+            "eng": "palm",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вызвать",
+            "eng": "to call; send",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "спокойно",
+            "eng": "quietly",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "попросить",
+            "eng": "to ask",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "наука",
+            "eng": "science",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "лейтенант",
+            "eng": "lieutenant",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "служба",
+            "eng": "service; work",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "оказываться",
+            "eng": "to turn out; find oneself",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "привести",
+            "eng": "to bring",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сорок",
+            "eng": "forty",
+            "category": [
+                "cardinal number",
+                "1000"
+            ]
+        },
+        {
+            "rus": "счет",
+            "eng": "bill; account",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "возвращаться",
+            "eng": "to return",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "золотой",
+            "eng": "golden",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "местный",
+            "eng": "local",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "кухня",
+            "eng": "kitchen",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "крупный",
+            "eng": "large; big; prominent",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "решение",
+            "eng": "decision; conclusion",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "молодая",
+            "eng": "bride",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "тридцать",
+            "eng": "thirty",
+            "category": [
+                "cardinal number",
+                "1000"
+            ]
+        },
+        {
+            "rus": "роман",
+            "eng": "novel; romance",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "требовать",
+            "eng": "to demand",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "компания",
+            "eng": "company",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "частый",
+            "eng": "frequent",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "российский",
+            "eng": "Russian",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "рабочий",
+            "eng": "working",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "потерять",
+            "eng": "to lose",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "течение",
+            "eng": "current",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "синий",
+            "eng": "dark blue",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "столько",
+            "eng": "so much; so many",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "теплый",
+            "eng": "warm",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "метр",
+            "eng": "meter; metre",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "достать",
+            "eng": "to reach; get; obtain",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "железный",
+            "eng": "ferreous; iron",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "институт",
+            "eng": "institute",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сообщить",
+            "eng": "to report; let know",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "интерес",
+            "eng": "interes",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "обычный",
+            "eng": "usual; ordinary",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "появляться",
+            "eng": "to appear; show up",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "упасть",
+            "eng": "to fall",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "остальной",
+            "eng": "remaining; the rest of",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "половина",
+            "eng": "half",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "московский",
+            "eng": "Moscow",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "шесть",
+            "eng": "six",
+            "category": [
+                "cardinal number",
+                "1000"
+            ]
+        },
+        {
+            "rus": "получиться",
+            "eng": "to come; arrive; turn out",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "качество",
+            "eng": "quality",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "бой",
+            "eng": "battle; fight; combat",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "шея",
+            "eng": "neck",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вон",
+            "eng": "out",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "идея",
+            "eng": "idea",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "видимо",
+            "eng": "apparently; seemingly",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "достаточно",
+            "eng": "enough; sufficiently",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "провести",
+            "eng": "to accompany; set off; conduct; spend",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "важный",
+            "eng": "important",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "трава",
+            "eng": "grass",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "дед",
+            "eng": "grandfather; old man",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сознание",
+            "eng": "consciousness",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "родитель",
+            "eng": "parent; masterrussian; dot; com",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "простить",
+            "eng": "to forgive",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "бить",
+            "eng": "to beat; hit",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "чай",
+            "eng": "tea",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "поздний",
+            "eng": "late",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "кивнуть",
+            "eng": "to nod",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "род",
+            "eng": "family; clan; generation",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "исчезнуть",
+            "eng": "to disappear",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "тонкий",
+            "eng": "thin",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "немецкий",
+            "eng": "German",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "звук",
+            "eng": "sound",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "отдать",
+            "eng": "to return; give back",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "магазин",
+            "eng": "shop; store",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "президент",
+            "eng": "president; director",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "поэт",
+            "eng": "poet",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "спасибо",
+            "eng": "gratitude; thanks",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "болезнь",
+            "eng": "illness; sickness; disease",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "событие",
+            "eng": "event",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "помочь",
+            "eng": "to help",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "кожа",
+            "eng": "skin",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "лист",
+            "eng": "leaf; sheet",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "слать",
+            "eng": "to send",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вспоминать",
+            "eng": "to remember; recall",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "прекрасный",
+            "eng": "beautiful; fine",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "слеза",
+            "eng": "tear",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "надежда",
+            "eng": "hope",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "молча",
+            "eng": "silently; without a word",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сильно",
+            "eng": "strongly",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "верный",
+            "eng": "correct; faithful; reliable",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "литература",
+            "eng": "literature",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "оружие",
+            "eng": "weapon",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "готовый",
+            "eng": "ready",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "запах",
+            "eng": "smell; odour; scent",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "неожиданно",
+            "eng": "unexpectedly; suddenly",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вчера",
+            "eng": "yesterday",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вздохнуть",
+            "eng": "to take breath; to sigh",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "роль",
+            "eng": "role",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "рост",
+            "eng": "growth; increase; height",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "природа",
+            "eng": "nature",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "политический",
+            "eng": "political",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "точка",
+            "eng": "dot; point",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "звезда",
+            "eng": "star",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "петь",
+            "eng": "to sing",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "садиться",
+            "eng": "to sit down",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "фамилия",
+            "eng": "surname",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "характер",
+            "eng": "character; disposition; temper",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "пожалуйста",
+            "eng": "please",
+            "category": [
+                "misc",
+                "1000"
+            ]
+        },
+        {
+            "rus": "выше",
+            "eng": "higher",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "офицер",
+            "eng": "officer",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "толпа",
+            "eng": "crowd",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "перестать",
+            "eng": "to stop; cease",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "придтись",
+            "eng": "to fit; fall; have to",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "уровень",
+            "eng": "level",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "неизвестный",
+            "eng": "unknown",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "кресло",
+            "eng": "armchair",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "баба",
+            "eng": "woman; wife; old woman;",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "секунда",
+            "eng": "a second",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "пожаловать",
+            "eng": "to grant; bestow",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "банк",
+            "eng": "bank",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "опыт",
+            "eng": "experience",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "тихий",
+            "eng": "quiet; low; scelent",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "поскольку",
+            "eng": "so far as; since",
+            "category": [
+                "misc",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сапог",
+            "eng": "(high) boot",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "правило",
+            "eng": "rule",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "стекло",
+            "eng": "glass",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "получать",
+            "eng": "to receive; get",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "внутренний",
+            "eng": "inside; internal",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "дочь",
+            "eng": "daughter",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "называться",
+            "eng": "to call oneself",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "надеяться",
+            "eng": "to hope",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "член",
+            "eng": "member; limb",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "протянуть",
+            "eng": "to stretch; extend",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "государственный",
+            "eng": "State",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "десяток",
+            "eng": "ten; dozens",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "глубокий",
+            "eng": "deep",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "цветок",
+            "eng": "flower",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ах",
+            "eng": "ah!; oh!",
+            "category": [
+                "misc",
+                "1000"
+            ]
+        },
+        {
+            "rus": "желание",
+            "eng": "wish",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "дождь",
+            "eng": "rain",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "впереди",
+            "eng": "before; in front of",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "подходить",
+            "eng": "to come up; approach;to fit",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "много",
+            "eng": "many; much; a lot of",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "лоб",
+            "eng": "forehead",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "улыбка",
+            "eng": "smile",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "борьба",
+            "eng": "fight; struggle",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ворот",
+            "eng": "collar",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ящик",
+            "eng": "box; case",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "этаж",
+            "eng": "floor; storey",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "служить",
+            "eng": "to serve",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вновь",
+            "eng": "again; once more",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "голубой",
+            "eng": "blue; sky-blue",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "нечего",
+            "eng": "there is nothing; there is no need",
+            "category": [
+                "misc",
+                "1000"
+            ]
+        },
+        {
+            "rus": "революция",
+            "eng": "revolution",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "впервые",
+            "eng": "for the first time",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сосед",
+            "eng": "neighbour",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сестра",
+            "eng": "sister",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "долгий",
+            "eng": "long",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "чей",
+            "eng": "whose",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "поверить",
+            "eng": "to believe",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ситуация",
+            "eng": "situation",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "взглянуть",
+            "eng": "to look; give a glance",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "слабый",
+            "eng": "weak",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "количество",
+            "eng": "quantity",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вызывать ",
+            "eng": "to call; send",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "уверенный",
+            "eng": "confident; sure",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "выход",
+            "eng": "exit",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "совет",
+            "eng": "advice",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "дурак",
+            "eng": "fool; idiot",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "любимый",
+            "eng": "dear; loved",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "союз",
+            "eng": "union; alliance; conjunction",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "лето",
+            "eng": "summer",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ожидать",
+            "eng": "to expect",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "пришлый",
+            "eng": "alien; strange",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "висеть",
+            "eng": "to hang",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "граница",
+            "eng": "border",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "цвет",
+            "eng": "colour; color",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "серьезный",
+            "eng": "serious",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "создать",
+            "eng": "to create; establish",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "интересно",
+            "eng": "interestingly",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "свобода",
+            "eng": "freedom",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "зато",
+            "eng": "but; but then",
+            "category": [
+                "conjunction",
+                "1000"
+            ]
+        },
+        {
+            "rus": "стул",
+            "eng": "chair",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "уехать",
+            "eng": "to leave; depart",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "поезд",
+            "eng": "train",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "музыка",
+            "eng": "music",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "быстрый",
+            "eng": "quick; fast",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "тень",
+            "eng": "shadow",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "лошадь",
+            "eng": "horse",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "поле",
+            "eng": "field",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "выглядеть",
+            "eng": "to look",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "учиться",
+            "eng": "to study; learn",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "левый",
+            "eng": "left",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "разговаривать",
+            "eng": "to talk; speak",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "детский",
+            "eng": "child's; children's",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "тип",
+            "eng": "type; model",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "суд",
+            "eng": "court; law-court",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "связанный",
+            "eng": "related; connected; tied-up",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "горячий",
+            "eng": "hot",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "площадь",
+            "eng": "square; area",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "помогать",
+            "eng": "to help; assist",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "счастливый",
+            "eng": "happy",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "повернуться",
+            "eng": "to turn",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "позволить",
+            "eng": "to allow; permit",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "встретить",
+            "eng": "to meet",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "радость",
+            "eng": "gladness; joy",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "острый",
+            "eng": "sharp; spicy",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "возраст",
+            "eng": "age",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "орган",
+            "eng": "organ; body",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "карта",
+            "eng": "map",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "входить",
+            "eng": "to enter; come in",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "обнаружить",
+            "eng": "to discover; find out",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "король",
+            "eng": "king",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "слава",
+            "eng": "glory; fame",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "полковник",
+            "eng": "colonel",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "мелкий",
+            "eng": "shallow; small",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "бок",
+            "eng": "side; flank",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "цена",
+            "eng": "price",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "информация",
+            "eng": "information",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "мозг",
+            "eng": "brain",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "удовольствие",
+            "eng": "pleasure",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "воля",
+            "eng": "will",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "область",
+            "eng": "oblast; province; field",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "крыша",
+            "eng": "roof",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "нести",
+            "eng": "to carry",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "обратно",
+            "eng": "back; backwards",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "современный",
+            "eng": "contemporary; modern; up-to-date",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "дама",
+            "eng": "lady; partner; queen",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "семь",
+            "eng": "seven",
+            "category": [
+                "cardinal number",
+                "1000"
+            ]
+        },
+        {
+            "rus": "веселый",
+            "eng": "cheerful; merry",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "прислать",
+            "eng": "to send",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сад",
+            "eng": "garden; yard",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "правительство",
+            "eng": "government",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "милый",
+            "eng": "nice; sweet; dear",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "относиться",
+            "eng": "to treat; regard; relate",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "возникать",
+            "eng": "to arise; appear",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "мол",
+            "eng": "he says; they say; etc.",
+            "category": [
+                "misc",
+                "1000"
+            ]
+        },
+        {
+            "rus": "повторить",
+            "eng": "to repeat",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "название",
+            "eng": "name; title",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "средний",
+            "eng": "average; middle",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "пример",
+            "eng": "example",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "невозможно",
+            "eng": "impossible",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "зеркало",
+            "eng": "mirror",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "погибнуть",
+            "eng": "to perish; be killed",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "американский",
+            "eng": "American",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "дым",
+            "eng": "smoke",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "гореть",
+            "eng": "to burn",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "плакать",
+            "eng": "to cry",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "весьма",
+            "eng": "very; highly; greatly",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "факт",
+            "eng": "fact",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "двигаться",
+            "eng": "to move",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "рыба",
+            "eng": "fish",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "добавить",
+            "eng": "to add",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "удивиться",
+            "eng": "to wonder; be surprised",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "бабушка",
+            "eng": "grandmother",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вино",
+            "eng": "wine",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ибо",
+            "eng": "for",
+            "category": [
+                "conjunction",
+                "1000"
+            ]
+        },
+        {
+            "rus": "учитель",
+            "eng": "teacher; instructor",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "действовать",
+            "eng": "to act",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "осторожно",
+            "eng": "carefully; cautiously",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "круг",
+            "eng": "circle",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "папа",
+            "eng": "dad; daddy",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "правильно",
+            "eng": "correctly; properly",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "недавно",
+            "eng": "recently; lately",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "держаться",
+            "eng": "to hold on; behave",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "причем",
+            "eng": "moreover; and what's more",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "лететь",
+            "eng": "to fly",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "носить",
+            "eng": "to wear",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "повод",
+            "eng": "occasion; reason; bridle",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "лагерь",
+            "eng": "camp",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "птица",
+            "eng": "bird",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "корабль",
+            "eng": "ship",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "мнение",
+            "eng": "opinion",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ночной",
+            "eng": "night",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "здоровый",
+            "eng": "healthy",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "зима",
+            "eng": "winter",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "сухой",
+            "eng": "dry",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "километр",
+            "eng": "kilometre; kilometer",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "кровать",
+            "eng": "bed",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "привыкнуть",
+            "eng": "to get used to; to grow accustomed to",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "прочее",
+            "eng": "et cetera; other",
+            "category": [
+                "pronoun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "свободный",
+            "eng": "free",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "лестница",
+            "eng": "staircase",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "неужели",
+            "eng": "really; surely",
+            "category": [
+                "particle",
+                "1000"
+            ]
+        },
+        {
+            "rus": "обязательно",
+            "eng": "without fail; be sure",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вверх",
+            "eng": "up; upwards",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "детство",
+            "eng": "childhood",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "остров",
+            "eng": "island",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "статья",
+            "eng": "article",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "позвонить",
+            "eng": "to call; to telephone",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "столь",
+            "eng": "so",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "мешать",
+            "eng": "to interfere; prevent; mix",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "водка",
+            "eng": "vodka",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "темнота",
+            "eng": "darkness",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "возникнуть",
+            "eng": "to arise; spring up",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "способный",
+            "eng": "capable (of)",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "станция",
+            "eng": "station",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "желать",
+            "eng": "to wish",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "попробовать",
+            "eng": "to try; test",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "получаться",
+            "eng": "to come out",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "гражданин",
+            "eng": "citizen",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "странно",
+            "eng": "strangely",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "вскоре",
+            "eng": "soon; shortly",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "интересный",
+            "eng": "interesting",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "команда",
+            "eng": "team; command",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "заболевание",
+            "eng": "disease; illness",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "живот",
+            "eng": "stomach; belly",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ставить",
+            "eng": "to put; place; set",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "ради",
+            "eng": "for the sake of",
+            "category": [
+                "preposition",
+                "1000"
+            ]
+        },
+        {
+            "rus": "тишина",
+            "eng": "silence; stillness",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "понятно",
+            "eng": "clearly; plainly",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "фронт",
+            "eng": "front",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "щека",
+            "eng": "cheek",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "страшно",
+            "eng": "terribly; awfully",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "район",
+            "eng": "area; region",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "наверно",
+            "eng": "probably",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "проводить",
+            "eng": "to lead; escort; accompany",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "выражение",
+            "eng": "expression",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "слегка",
+            "eng": "slightly",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "мешок",
+            "eng": "bag; sack",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "обещать",
+            "eng": "to promise",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "дорогой",
+            "eng": "on the way",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "судить",
+            "eng": "to judge; try",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "большинство",
+            "eng": "majority",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "собраться",
+            "eng": "to gather; collect",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "управление",
+            "eng": "operation; control",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "колоть",
+            "eng": "to prick",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "мокрый",
+            "eng": "wet",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "приказ",
+            "eng": "order",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "прямой",
+            "eng": "straight",
+            "category": [
+                "adjective",
+                "1000"
+            ]
+        },
+        {
+            "rus": "закричать",
+            "eng": "to shout; cry out",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "кончиться",
+            "eng": "to end",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "куст",
+            "eng": "bush",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "стрелять",
+            "eng": "to shoot",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "художник",
+            "eng": "painter; artist",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "знак",
+            "eng": "sign",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "завод",
+            "eng": "factory",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "кулак",
+            "eng": "fist",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "использовать",
+            "eng": "to use; utilize; make use of",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "стакан",
+            "eng": "glass",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "пахнуть",
+            "eng": "to smell",
+            "category": [
+                "verb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "отсюда",
+            "eng": "from here",
+            "category": [
+                "adverb",
+                "1000"
+            ]
+        },
+        {
+            "rus": "рот",
+            "eng": "mouth",
+            "category": [
+                "noun",
+                "1000"
+            ]
+        },
+        {
+            "rus": "пора",
+            "eng": "it's time;at times; now and then",
+            "category": [
+                "misc",
+                "1000"
+            ]
         }
     ]
 }
