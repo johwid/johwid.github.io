@@ -6,21 +6,18 @@ function getWord(words){
 function getWord(words,filter){
     var found=false;
     var word="";
-    console.log(filter);
+    console.log('Filter:'+filter);
 
     while(!found){
         word=words[Math.floor(Math.random() * words.length)];
 
-        console.log(word);
-/*
         console.log("Word: "+word.rus);
         console.log("Filter: "+filter);
         console.log("Category: "+word.category);
-*/
 
         if(filter == "all" || word.category.includes(filter)){
             found=true;
-            console.log("Found");
+            console.log("Word category matching filter Found");
         }
         /*
         console.log("F:"+filter);

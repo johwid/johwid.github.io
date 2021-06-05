@@ -44,13 +44,15 @@ with open(inputFile) as f:
         if(len(lineArray)!=1):
             #words.append({"russian":lineArray[0].strip(),"english":lineArray[1].strip()})
             #words.append({lineArray[0].strip():lineArray[1].strip()})
-            words.append({"rus":lineArray[0].strip(),"eng":lineArray[1].strip(),"category":[]})
+            #words.append({"rus":lineArray[0].strip(),"eng":lineArray[1].strip(),"category":[]})
+            words.append({"rus":lineArray[0].strip(),"eng":lineArray[1].strip(),"category":lineArray[2].split(";")})
 
 content["words"]=words
 #print(content)
 
 # Write to JSON
 #print(json.dumps(content))
+#sys.exit(0)
 
 # Write JSON to file
 with open(outputFile, 'w',encoding='utf8') as outfile:
