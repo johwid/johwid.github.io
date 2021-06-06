@@ -126,6 +126,10 @@ $(document).ready(function() {
     //newQuestion(words);
     newQuestion(words,currentFilter);
 
+    $("#nextButton").on("click",function(){
+        $("#answers").empty();
+        newQuestion(words,currentFilter); 
+    });
     $("#conjugationButton").on("click",function(){
         $("#answers").empty();
         currentFilter="conjunction";
@@ -151,10 +155,10 @@ $(document).ready(function() {
         currentFilter="1000";
         newQuestion(words,currentFilter); 
     });
-    $("#nextButton").on("click",function(){
+    $("#prefixButton").on("click",function(){
         $("#answers").empty();
+        currentFilter="Prefix";
         newQuestion(words,currentFilter); 
     });
-
 });
 
