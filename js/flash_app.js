@@ -102,6 +102,11 @@ $(document).ready(function() {
         currentFilter="1000";
         newQuestion(words,currentFilter); 
     });
+    $("#prefixButton").on("click",function(){
+        $("#answers").empty();
+        currentFilter="Prefix";
+        newQuestion(words,currentFilter); 
+    });
     $("#nextButton").on("click",function(){
         $("#answers").empty();
         newQuestion(words,currentFilter); 
