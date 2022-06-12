@@ -125,6 +125,5 @@ $(document).ready(function() {
         $("#answers").empty();
         newQuestion(words,currentFilter); 
     });
-
 });
 
