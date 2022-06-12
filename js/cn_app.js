@@ -61,7 +61,7 @@ function newQuestion(words,filter){
     var to=question.eng;
 
     $("#question").addClass("h1");
-    $("#question").data("russian",from);
+    $("#question").data("chinese",from);
     $("#question").data("english",to);
     //console.log("New word: "+from+"("+to+")");
     $("#question").html(from);
