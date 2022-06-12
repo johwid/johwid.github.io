@@ -77,6 +77,7 @@ function newQuestion(words,filter){
     //$("#question").html(from);
     $("#question").html(simplified);
     $("#pinyin").html(from);
+    $("#pinyin").addClass("h4");
     $("#answers").html(to);
 }
 
