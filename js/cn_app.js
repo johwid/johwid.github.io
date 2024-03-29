@@ -155,9 +155,9 @@ $(document).ready(function() {
         currentFilter="1000";
         newQuestion(words,currentFilter); 
     });
-    $("#prefixButton").on("click",function(){
+    $("#radicalButton").on("click",function(){
         $("#answers").empty();
-        currentFilter="Prefix";
+        currentFilter="common";
         newQuestion(words,currentFilter); 
     });
 });

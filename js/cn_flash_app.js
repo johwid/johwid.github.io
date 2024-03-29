@@ -122,6 +122,21 @@ $(document).ready(function() {
         currentFilter="radical";
         newQuestion(words,currentFilter); 
     });
+    $("#commonButton").on("click",function(){
+        $("#answers").empty();
+        currentFilter="common";
+        newQuestion(words,currentFilter); 
+    });
+    $("#measureButton").on("click",function(){
+        $("#answers").empty();
+        currentFilter="measure word";
+        newQuestion(words,currentFilter); 
+    });
+    $("particleButton").on("click",function(){
+        $("#answers").empty();
+        currentFilter="particle";
+        newQuestion(words,currentFilter); 
+    });
     $("#nextButton").on("click",function(){
         $("#answers").empty();
         newQuestion(words,currentFilter); 
