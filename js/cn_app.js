@@ -11,9 +11,11 @@ function getWord(words,filter){
     while(!found){
         word=words[Math.floor(Math.random() * words.length)];
 
+/*
         console.log("Word: "+word.rus);
         console.log("Filter: "+filter);
         console.log("Category: "+word.category);
+*/
 
         if(filter == "all" || word.category.includes(filter)){
             found=true;
@@ -51,20 +53,22 @@ function newQuestion(words,filter){
     // Get question card
     //var question=getWord(words);
     var question=getWord(words,filter);
-    console.log("Question word: "+question.rus);
-    $("#question").html(question.rus);
+    console.log("Question word: "+question.simplified);
+    $("#question").html(question.simplified);
    
     //var from=Object.keys(question)[0]
     //var to=question[from]
 
-    var from=question.rus;
+    var from=question.simplified;
     var to=question.eng;
 
     $("#question").addClass("h1");
-    $("#question").data("chinese",from);
-    $("#question").data("english",to);
+    $("#question").data("mandarin",from);
+    $("#question").data("eng",to);
     //console.log("New word: "+from+"("+to+")");
-    $("#question").html(from);
+    $("#pinyin").html(question.cn);
+    //$("#pinyin").addClass("h4");
+    //$("#answers").html(to);
     
     // Get answers
     var answers=[]
@@ -77,7 +81,7 @@ function newQuestion(words,filter){
     for(var i=1; i<numberOfAnswers; i++){
         var answer=getWord(words,filter);
         //from=Object.keys(answer)[0]
-        from=answer.rus;
+        from=answer.simplified;
         to=answer.eng;
         answers.push([from,to]);
         //console.log(from+" - "+to);
@@ -95,7 +99,7 @@ function newQuestion(words,filter){
             .text(answers[i][1])
             //.text(answers[i].rus)
             
-            .data("russian",answers[i][0])
+            .data("mandarin",answers[i][0])
             //.data("russian",answers[i].rus)
             
             .data("english",answers[i][1])
@@ -106,8 +110,8 @@ function newQuestion(words,filter){
             // Correction logic
             $("#b"+i).on("click", function(){
                 //console.log($(this).data('russian')+" - "+$(this).data('english'));
-                console.log($("#question").data('russian')+" == "+$(this).data('russian'));
-                if($("#question").data('russian') == $(this).data('russian')){
+                console.log($("#question").data('mandarin')+" == "+$(this).data('mandarin'));
+                if($("#question").data('mandarin') == $(this).data('mandarin')){
                     console.log('Correct');
                     $(this).addClass("btn-success");
                 }
@@ -126,39 +130,40 @@ $(document).ready(function() {
     //newQuestion(words);
     newQuestion(words,currentFilter);
 
-    $("#nextButton").on("click",function(){
-        $("#answers").empty();
-        newQuestion(words,currentFilter); 
-    });
-    $("#conjugationButton").on("click",function(){
-        $("#answers").empty();
-        currentFilter="conjunction";
-        newQuestion(words,currentFilter); 
-    });
-    $("#numberButton").on("click",function(){
-        $("#answers").empty();
-        currentFilter="number";
-        newQuestion(words,currentFilter); 
-    });
-    $("#cardinalButton").on("click",function(){
-        $("#answers").empty();
-        currentFilter="cardinal";
-        newQuestion(words,currentFilter); 
-    });
     $("#allButton").on("click",function(){
         $("#answers").empty();
         currentFilter="all";
         newQuestion(words,currentFilter); 
     });
-    $("#1000Button").on("click",function(){
+    $("#100Button").on("click",function(){
         $("#answers").empty();
-        currentFilter="1000";
+        currentFilter="100";
         newQuestion(words,currentFilter); 
     });
     $("#radicalButton").on("click",function(){
         $("#answers").empty();
+        currentFilter="radical";
+        newQuestion(words,currentFilter); 
+    });
+    $("#commonButton").on("click",function(){
+        $("#answers").empty();
         currentFilter="common";
         newQuestion(words,currentFilter); 
     });
+    $("#measureButton").on("click",function(){
+        $("#answers").empty();
+        currentFilter="measure word";
+        newQuestion(words,currentFilter); 
+    });
+    $("particleButton").on("click",function(){
+        $("#answers").empty();
+        currentFilter="particle";
+        newQuestion(words,currentFilter); 
+    });
+    $("#nextButton").on("click",function(){
+        $("#answers").empty();
+        newQuestion(words,currentFilter); 
+    });
+
 });
 
