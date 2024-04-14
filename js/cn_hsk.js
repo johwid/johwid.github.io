@@ -8,25 +8,7 @@ function getWord(words,filter){
     var word="";
     console.log('Filter:'+filter);
 
-    while(!found){
-        word=words[Math.floor(Math.random() * words.length)];
-
-/*
-        console.log("Word: "+word.rus);
-        console.log("Filter: "+filter);
-        console.log("Category: "+word.category);
-*/
-
-        if(filter == "all" || word.category.includes(filter)){
-            found=true;
-            console.log("Word category matching filter Found");
-        }
-        /*
-        console.log("F:"+filter);
-        console.log(word.category);
-        */
-    }
-
+    word=words[Math.floor(Math.random() * words.length)];
     return word
 }
 
@@ -53,26 +35,26 @@ function newQuestion(words,filter){
     // Get question card
     //var question=getWord(words);
     var question=getWord(words,filter);
-    console.log("Question word: "+question.simplified);
-    $("#question").html(question.simplified);
+    console.log("Question word: "+question.hanzi);
+    $("#question").html(question.hanzi);
    
     //var from=Object.keys(question)[0]
     //var to=question[from]
 
-    var from=question.simplified;
-    var to=question.eng;
+    var from=question.hanzi;
+    var to=question.translations.join(", "); 
 
     $("#question").addClass("h1");
     $("#question").data("mandarin",from);
     $("#question").data("eng",to);
     //console.log("New word: "+from+"("+to+")");
-    $("#pinyin").html(question.cn);
+    $("#pinyin").html(question.pinyin);
     //$("#pinyin").addClass("h4");
     //$("#answers").html(to);
     
     // Get answers
     var answers=[]
-    var numberOfAnswers=7
+    var numberOfAnswers=10
 
     // Push correct answer to the list
     answers.push([from,to]);
@@ -81,8 +63,8 @@ function newQuestion(words,filter){
     for(var i=1; i<numberOfAnswers; i++){
         var answer=getWord(words,filter);
         //from=Object.keys(answer)[0]
-        from=answer.simplified;
-        to=answer.eng;
+        from=answer.hanzi;
+        to=answer.translations.join(", "); 
         answers.push([from,to]);
         //console.log(from+" - "+to);
     }
@@ -90,6 +72,7 @@ function newQuestion(words,filter){
     //Shuffle answers
     answers=shuffle(answers); 
 
+    //TODO: rewrite this to be more generic parameter names
     for(var i=0; i<numberOfAnswers; i++){
         $("<button>").attr("class", "btn btn-primary")
             .attr("id","b"+i)
@@ -125,11 +108,12 @@ function newQuestion(words,filter){
 }
 
 $(document).ready(function() {
-    var words=wordDeck.words;
+    var words=wordDeck;
     var currentFilter="all";
     //newQuestion(words);
     newQuestion(words,currentFilter);
 
+/* 
     $("#allButton").on("click",function(){
         $("#answers").empty();
         currentFilter="all";
@@ -160,6 +144,7 @@ $(document).ready(function() {
         currentFilter="particle";
         newQuestion(words,currentFilter); 
     });
+*/
     $("#nextButton").on("click",function(){
         $("#answers").empty();
         newQuestion(words,currentFilter); 
